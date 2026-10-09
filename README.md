@@ -10,7 +10,7 @@
   `<link rel="canonical">` 을 한 번 냅니다. 그래서 검색 엔진에는 중복 글이 아니라 사본으로 전달됩니다.
   (jalhana.com 의 글 주소는 끝 슬래시가 **없는** 형태이며, 슬래시를 붙이면 404 입니다. 2026-10-09 실측.)
 - 글 본문은 원문 그대로입니다(오타 포함). 바뀌는 것은 이미지 경로(`/blog/images/...` → `https://jalhana.com/blog/images/...`) 뿐입니다.
-- 글 끝의 「관련 보기」 블록과 글 머리의 정본 안내, 푸터가 jalhana.com 으로 돌아가는 백링크입니다(설명형 앵커 문구).
+- 글 끝의 「관련 보기」 블록, 글 머리의 정본 안내, 홈·소개의 링크, 푸터의 jalhana.com 이 jalhana.com 으로 돌아가는 백링크입니다(설명형 앵커 문구).
 - `_posts/` 는 직접 고치지 않습니다. 아래 도구로 다시 만듭니다.
 
 ## 새 글을 옮기는 절차
@@ -39,7 +39,7 @@ _config.yml            minima, jekyll-sitemap / jekyll-seo-tag / jekyll-feed, �
 index.md blog.md about.md   홈 · 블로그 · 소개
 _includes/             header.html(한국어 메뉴) · footer.html(텍스트 링크) · post-list.html
 _layouts/post.html     글 머리에 정본 안내
-_data/links.json       푸터·홈이 쓰는 링크 정본
+_data/links.json       푸터 채널 목록(SNS 등)
 _posts/                도구가 만든 글(손대지 않음)
 assets/main.scss       minima 위 최소 덧칠(다크 모드 포함)
 tools/                 export_from_dongheon.py · related_links.json · build_preview.py
@@ -51,8 +51,9 @@ robots.txt             전체 허용 + sitemap
 
 ## 알아 둘 점
 
-- **행감팩 지역 링크**: `https://jalhana.com/status/2026-haenggam/<지역>/` 은 현재 Cloudflare Access 뒤라 공개되지 않습니다(302 로그인).
-  그래서 푸터의 「행감팩 대상 지역」은 공개 행감팩 안내(`/packs/`)와 해당 5개 의회 페이지로 연결합니다.
-  지역별 행감팩이 공개되면 `_data/links.json` 의 해당 지역 `pack_url` 만 채우면 문구가 「… 행감팩」으로 바뀝니다.
+- **푸터**: 사이트 한 줄 + 채널 한 줄(Threads · Instagram · X · LinkedIn · 브런치 · Velog · GitHub · jalhana.com) + 안내문입니다.
+  채널은 `_data/links.json` 의 `channels` 에서 오며 `url` 이 빈 항목은 건너뜁니다. 개인 채널에는 `rel="me noopener"` 를 붙였습니다.
+  같은 프로필 주소가 `_config.yml` 의 `social.links` 에도 있어 jekyll-seo-tag 가 홈 JSON-LD 의 sameAs 로 냅니다(두 곳을 함께 고칩니다).
+- **행감팩 지역 페이지**(`/status/2026-haenggam/<지역>/`)는 현재 Cloudflare Access 뒤라 공개되지 않아(302 로그인) 어디에도 링크하지 않았습니다.
 - jalhana.com 의 robots.txt 는 일부 AI 크롤러를 막고 있지만, 이 사이트의 robots.txt 는 요청대로 전체 허용입니다.
 - 미리보기(`preview/`)는 실제 Jekyll 렌더가 아니라 구조·링크 위치를 보기 위한 근사본입니다.

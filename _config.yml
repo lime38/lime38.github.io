@@ -7,6 +7,19 @@ lang: ko
 timezone: Asia/Seoul
 author: 잘하나
 
+# jekyll-seo-tag: 홈 JSON-LD 의 sameAs (프로필 주소). 푸터 채널(_data/links.json)과 같은 목록.
+social:
+  type: Organization
+  name: 잘하나
+  links:
+    - https://www.threads.com/@lime.jung
+    - https://www.instagram.com/jalhana_official/
+    - https://x.com/jalhana12
+    - https://www.linkedin.com/in/lime38/
+    - https://brunch.co.kr/@jalhana12
+    - https://velog.io/@jalhana
+    - https://github.com/lime38
+
 theme: minima
 
 plugins:

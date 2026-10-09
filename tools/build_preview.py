@@ -68,14 +68,12 @@ ul,ol{margin:0 0 1.1em;padding-left:1.35em}li{margin-bottom:.3em}
 .related-links ul{margin:0}
 .btn{display:inline-block;font:inherit;color:var(--brand);background:transparent;border:1px solid var(--cardline);border-radius:8px;padding:6px 12px;cursor:pointer}
 .site-footer{border-top:1px solid var(--line);padding:28px 0 40px;font-size:15px}
-.footer-heading{font-weight:700;margin:0 0 14px}
-.footer-cols{display:flex;flex-wrap:wrap;margin:0 -15px}
-.footer-col{flex:1 1 200px;padding:0 15px;margin-bottom:14px}
-.footer-title{margin:0 0 6px;font-weight:700;font-size:14px}
-.footer-links{list-style:none;margin:0;padding:0}.footer-links li{margin-bottom:6px}
+.footer-heading{font-weight:700;margin:0 0 10px}
+.footer-channels{display:flex;flex-wrap:wrap;align-items:center;gap:6px 18px;margin:0 0 10px}
+.footer-title{font-weight:700;font-size:14px}
 .footer-note{margin:6px 0 0;font-size:13px;color:var(--mut)}
 .hl a[href^="https://jalhana.com"],.hl a[href^="https://github.com/lime38"]{background:var(--hl);border-radius:3px;box-shadow:0 0 0 2px var(--hl)}
-@media (min-width:700px){body{font-size:17px}.wrap{padding:0 30px}.footer-cols{margin:0 -15px}}
+@media (min-width:700px){body{font-size:17px}.wrap{padding:0 30px}}
 """
 
 JS = """
@@ -221,20 +219,16 @@ def render_post(p: dict) -> str:
 
 
 def render_footer(links: dict, title: str) -> str:
-    li = lambda k: f'<li><a href="{links[k]["url"]}">{html.escape(links[k]["text"])}</a></li>'
-    regions = ""
-    for r in links["pack_regions"]:
-        if r.get("pack_url"):
-            regions += f'<li><a href="{r["pack_url"]}">{html.escape(r["name"])} 행감팩</a></li>'
-        else:
-            regions += f'<li><a href="{r["url"]}">{html.escape(r["name"])} 기록</a></li>'
+    """_includes/footer.html 과 같은 모양: 사이트 한 줄 + 채널 한 줄(url 이 빈 항목은 건너뜀) + 안내문."""
+    chans = ""
+    for c in links["channels"]:
+        if not c.get("url"):
+            continue
+        rel = f' rel="{html.escape(c["rel"])}"' if c.get("rel") else ""
+        chans += f'<a href="{html.escape(c["url"])}"{rel}>{html.escape(c["label"])}</a>'
     return ('<footer class="site-footer"><div class="wrap">'
             f'<p class="footer-heading">{html.escape(title)} — 잘하나 블로그의 글을 옮겨 실은 사이트입니다</p>'
-            '<div class="footer-cols">'
-            f'<div class="footer-col"><p class="footer-title">잘하나</p><ul class="footer-links">{li("home")}{li("blog")}{li("principles")}{li("rules")}</ul></div>'
-            f'<div class="footer-col"><p class="footer-title">행감팩 대상 지역</p><ul class="footer-links">{li("packs")}{regions}</ul></div>'
-            f'<div class="footer-col"><p class="footer-title">공개 자료</p><ul class="footer-links">{li("resources")}{li("github")}{li("faq")}{li("copyright")}</ul></div>'
-            '</div>'
+            f'<nav class="footer-channels" aria-label="채널"><span class="footer-title">채널</span>{chans}</nav>'
             '<p class="footer-note">잘하나는 편집은 하되 판정은 하지 않습니다. 이 사이트의 글은 모두 jalhana.com/blog 의 원문을 정본으로 합니다.</p>'
             '</div></footer>')
 
