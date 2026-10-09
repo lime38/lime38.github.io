@@ -1,0 +1,86 @@
+{
+  "_note": "글별 '관련 보기' 링크(주제에 맞는 jalhana.com 페이지 2~3개). 키는 jalhana 슬러그. 원문 글 링크(canonical)는 export_from_dongheon.py 가 자동으로 마지막에 붙인다. 새 URL 은 반드시 `python3 tools/export_from_dongheon.py --check-links` 로 200 확인 후 추가한다. 가짜 URL 금지.",
+  "default": [
+    { "text": "잘하나 홈 — 지방의회 결정을 사안별로 한눈에 보기", "url": "https://jalhana.com/" },
+    { "text": "잘하나의 원칙 — 편집은 하되 판정하지 않습니다", "url": "https://jalhana.com/principles" }
+  ],
+  "posts": {
+    "why-jalhana": [
+      { "text": "잘하나 홈 — 지방의회 결정을 사안별로 한눈에 보기", "url": "https://jalhana.com/" },
+      { "text": "잘하나의 원칙 — 편집은 하되 판정하지 않는 이유", "url": "https://jalhana.com/principles" },
+      { "text": "거제시 잘하나 — 거제시의회 회의록과 의안 정리", "url": "https://jalhana.com/geoje/" }
+    ],
+    "principles": [
+      { "text": "잘하나의 원칙 전문 — 다섯 가지 원칙", "url": "https://jalhana.com/principles" },
+      { "text": "잘하나 규칙 체계 — 원칙을 실제 절차로 옮긴 기준", "url": "https://jalhana.com/rules" },
+      { "text": "잘하나 자주 묻는 질문", "url": "https://jalhana.com/faq" }
+    ],
+    "pilot-eight-years": [
+      { "text": "거제시 잘하나: 흥남철수기념공원 사안 — 8년의 의회 기록", "url": "https://jalhana.com/geoje/issues/heungnam-park" },
+      { "text": "거제시 잘하나 — 거제시의회 회의록과 의안 정리", "url": "https://jalhana.com/geoje/" }
+    ],
+    "where-real-politics": [
+      { "text": "거제시의회 회의록 모아보기 — 거제시 잘하나", "url": "https://jalhana.com/geoje/minutes" },
+      { "text": "거제시 잘하나 — 사안으로 다시 엮은 거제시의회 의정활동", "url": "https://jalhana.com/geoje/" }
+    ],
+    "reading-minutes": [
+      { "text": "거제시 잘하나: 노자산 케이블카·정상부 데크로드 사안", "url": "https://jalhana.com/geoje/issues/noja-cablecar" },
+      { "text": "거제시 잘하나: 공공산후조리원 사안", "url": "https://jalhana.com/geoje/issues/gonggong-sanhujoriwon" },
+      { "text": "잘하나의 원칙 — 기록의 노출이 아니라 영향을 기준으로 편집", "url": "https://jalhana.com/principles" }
+    ],
+    "trust-ai-summary": [
+      { "text": "잘하나 자주 묻는 질문 — AI 요약과 원문 확인", "url": "https://jalhana.com/faq" },
+      { "text": "잘하나의 원칙 — 누가 만들고 누가 검증하나", "url": "https://jalhana.com/principles" },
+      { "text": "잘하나 규칙 체계 — 원문 추적 원칙과 검수", "url": "https://jalhana.com/rules" }
+    ],
+    "hard-to-discard": [
+      { "text": "거제시 잘하나 — 사안으로 연결된 거제시의회 기록", "url": "https://jalhana.com/geoje/" },
+      { "text": "제도별 보기 — 같은 제도를 다룬 사안 모아보기", "url": "https://jalhana.com/hubs/" },
+      { "text": "주제별 보기 — 전국 사안을 주제로 묶어 보기", "url": "https://jalhana.com/topics" }
+    ],
+    "vanished-committee": [
+      { "text": "거제시 잘하나: 흥남철수기념공원 사안 — 위원회가 바뀌어도 이어지는 기록", "url": "https://jalhana.com/geoje/issues/heungnam-park" },
+      { "text": "제도별 보기 — 같은 제도를 다룬 사안 모아보기", "url": "https://jalhana.com/hubs/" }
+    ],
+    "philosophy-to-scorecard": [
+      { "text": "잘하나 규칙 체계 — 사안의 중요도와 우선순위를 정하는 기준", "url": "https://jalhana.com/rules" },
+      { "text": "잘하나의 원칙 — 중요도는 영향으로 결정합니다", "url": "https://jalhana.com/principles" },
+      { "text": "거제시 잘하나: 공공산후조리원 사안", "url": "https://jalhana.com/geoje/issues/gonggong-sanhujoriwon" }
+    ],
+    "deficit-bus": [
+      { "text": "거제시 잘하나: 벽지노선 버스 사안", "url": "https://jalhana.com/geoje/issues/byeokji-noseon" },
+      { "text": "제도별 보기: 시내버스 준공영제", "url": "https://jalhana.com/hubs/bus-quasi-public-system" },
+      { "text": "제도별 보기: 저상버스 도입", "url": "https://jalhana.com/hubs/low-floor-bus" }
+    ],
+    "not-someone-elses-problem": [
+      { "text": "거제시 잘하나: 어르신 목욕비 조례 사안", "url": "https://jalhana.com/geoje/issues/elderly-bath-hair-subsidy" },
+      { "text": "거제시 잘하나: 복지 분야 사안 모아보기", "url": "https://jalhana.com/geoje/categories/welfare" },
+      { "text": "제도별 보기: 공공산후조리원", "url": "https://jalhana.com/hubs/public-postpartum-center" }
+    ],
+    "compare-with-neighbors": [
+      { "text": "거제시 잘하나: 하청노동자 사안", "url": "https://jalhana.com/geoje/issues/hacheong-worker" },
+      { "text": "거제시 잘하나: 공공·응급의료 취약 사안", "url": "https://jalhana.com/geoje/issues/gonggong-uiryo" },
+      { "text": "제도별 보기: 지역 응급의료 공백", "url": "https://jalhana.com/hubs/emergency-medical-gap" }
+    ],
+    "city-vs-provincial-council": [
+      { "text": "거제시 잘하나: 거가대교 사안 (시의회의 질문)", "url": "https://jalhana.com/geoje/issues/geoga-daegyo" },
+      { "text": "경상남도 잘하나: 거가대교 통행료 사안 (도의회의 질문)", "url": "https://jalhana.com/gyeongnam/issues/geoga-bridge" },
+      { "text": "경상남도 잘하나 — 경상남도의회 회의록과 의안 정리", "url": "https://jalhana.com/gyeongnam/" }
+    ],
+    "finding-gems": [
+      { "text": "제도별 보기: 고독사 예방·관리", "url": "https://jalhana.com/hubs/lonely-death-prevention" },
+      { "text": "제도별 보기: 학교밖청소년지원센터", "url": "https://jalhana.com/hubs/out-of-school-youth-center" },
+      { "text": "거제시 잘하나 — 거제시의회 회의록과 의안 정리", "url": "https://jalhana.com/geoje/" }
+    ],
+    "how-to-record-lawmakers-work": [
+      { "text": "거제시 잘하나: 공직자 — 의원별 관여·대표발의·발의 기록", "url": "https://jalhana.com/geoje/members/" },
+      { "text": "경상남도 잘하나: 공직자 — 의원별 활동 기록", "url": "https://jalhana.com/gyeongnam/members/" },
+      { "text": "제도별 보기: 지방 인사청문회", "url": "https://jalhana.com/hubs/personnel-hearing" }
+    ],
+    "editing-after-reading-minutes": [
+      { "text": "서울시 잘하나: 주거복지센터 사안 — 8년을 한눈에", "url": "https://jalhana.com/seoul/issues/housing-welfare-center" },
+      { "text": "서울시 잘하나 — 서울특별시의회 회의록과 의안 정리", "url": "https://jalhana.com/seoul/" },
+      { "text": "잘하나 규칙 체계 — 사안의 발견부터 제목·진척도까지 편집 기준", "url": "https://jalhana.com/rules" }
+    ]
+  }
+}

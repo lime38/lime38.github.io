@@ -1,0 +1,46 @@
+{
+  "_note": "푸터·홈·소개가 함께 쓰는 링크 정본. 모든 URL 은 curl 로 200 확인 후 기입했다(2026-10-09). 행감팩 개별 페이지(/status/2026-haenggam/<지역>/)는 현재 Cloudflare Access 뒤라 비공개(302)이므로 넣지 않았다. 공개되면 해당 지역의 pack_url 만 채우면 푸터 문구가 '행감팩'으로 바뀐다.",
+  "home": {
+    "text": "잘하나 홈 — 우리 지역 결정을 한눈에",
+    "url": "https://jalhana.com/"
+  },
+  "blog": {
+    "text": "잘하나 블로그 원문 목록",
+    "url": "https://jalhana.com/blog/"
+  },
+  "principles": {
+    "text": "잘하나의 원칙",
+    "url": "https://jalhana.com/principles"
+  },
+  "rules": {
+    "text": "잘하나 규칙 체계",
+    "url": "https://jalhana.com/rules"
+  },
+  "faq": {
+    "text": "자주 묻는 질문",
+    "url": "https://jalhana.com/faq"
+  },
+  "copyright": {
+    "text": "저작권과 라이선스",
+    "url": "https://jalhana.com/copyright"
+  },
+  "packs": {
+    "text": "행감팩 안내",
+    "url": "https://jalhana.com/packs/"
+  },
+  "resources": {
+    "text": "지방의회 공개 리소스",
+    "url": "https://jalhana.com/resources/local-councils/"
+  },
+  "github": {
+    "text": "GitHub 공개 저장소 local-council-public-records",
+    "url": "https://github.com/lime38/local-council-public-records"
+  },
+  "pack_regions": [
+    { "name": "거제시의회", "url": "https://jalhana.com/geoje/", "pack_url": "" },
+    { "name": "성남시의회", "url": "https://jalhana.com/seongnam/", "pack_url": "" },
+    { "name": "고양시의회", "url": "https://jalhana.com/goyang/", "pack_url": "" },
+    { "name": "강남구의회", "url": "https://jalhana.com/gangnam/", "pack_url": "" },
+    { "name": "송파구의회", "url": "https://jalhana.com/songpa/", "pack_url": "" }
+  ]
+}
