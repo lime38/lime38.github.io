@@ -100,7 +100,7 @@ details.seo pre{margin:0;padding:10px 14px 14px;font:12px/1.55 ui-monospace,SFMo
 .footer-icon,.footer-icon:visited{display:inline-flex;align-items:center;justify-content:center;width:44px;height:44px;border-radius:50%;color:var(--fg);opacity:.85}
 .footer-icon:hover{color:var(--brand);background:var(--card);opacity:1;text-decoration:none}
 .footer-icon svg{width:24px;height:24px;display:block}
-.footer-text+.footer-text::before{content:"·";margin-right:14px;color:var(--mut)}
+
 .visually-hidden{position:absolute;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap;border:0}
 .footer-note{margin:6px 0 0;font-size:13px;color:var(--mut)}
 .hl a[href^="https://jalhana.com"],.hl a[href^="https://github.com/lime38"]{background:var(--hl);border-radius:3px;box-shadow:0 0 0 2px var(--hl)}
@@ -379,11 +379,11 @@ def render_footer(links: dict, title: str) -> str:
             chans += (f'<a class="footer-icon" href="{url}"{rel} aria-label="{label}" title="{label}">'
                       f'{svg}<span class="visually-hidden">{label}</span></a>')
         else:
-            chans += f'<a class="footer-text" href="{url}"{rel}>{label}</a>'
+            pass   # 텍스트 링크는 푸터에 싣지 않는다(10-10 사용자: 깃헙 아이콘까지만)
     return ('<footer class="site-footer"><div class="wrap">'
             f'<p class="footer-heading">{html.escape(title)} — 잘하나 블로그의 글을 옮겨 실은 사이트입니다</p>'
-            f'<nav class="footer-channels" aria-label="채널"><span class="footer-title">채널</span>{chans}</nav>'
-            '<p class="footer-note">잘하나는 편집은 하되 판정은 하지 않습니다. 이 사이트의 글은 모두 jalhana.com/blog 의 원문을 정본으로 합니다.</p>'
+            f'<nav class="footer-channels" aria-label="채널">{chans}</nav>'
+            '<p class="footer-note">© 2026 <a href="https://jalhana.com/">jalhana.com</a></p>'
             '</div></footer>')
 
 
