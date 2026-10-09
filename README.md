@@ -57,7 +57,7 @@ robots.txt             전체 허용 + sitemap
 - `{% seo %}`(jekyll-seo-tag)가 title·description·canonical·Open Graph·Twitter 카드·JSON-LD(BlogPosting, 홈은 WebSite + `social` sameAs)를 냅니다. 손으로 쓴 JSON-LD 는 없습니다.
 - 글의 og:image = jalhana.com 이 그 글에서 내는 이미지 → 본문 첫 이미지 → `/assets/og-default.png`(1200×630). publisher 로고는 `/assets/jalhana-512.png`.
 - `_includes/head-custom.html`: theme-color(라이트/다크), 파비콘·apple-touch-icon·512 아이콘, `hreflang="ko"`, 목록 쪽의 `rel=prev/next`, 글의 `article:section/tag`.
-- 소유 확인: `_config.yml` 의 `google_site_verification`, `bing_site_verification` 에 토큰 문자열만 넣으면 meta 가 나옵니다(비어 있으면 아무것도 내지 않습니다).
+- 소유 확인: `_config.yml` 의 `webmaster_verifications` 아래 `google:`·`bing:` 에 토큰 문자열만 넣으면 jekyll-seo-tag 가 head 에 한 번씩 출력합니다.
 - 푸터 채널 목록과 `_config.yml` 의 `social.links` 는 같은 프로필 주소를 씁니다(두 곳을 함께 고칩니다).
 
 ## 알아 둘 점
