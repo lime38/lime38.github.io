@@ -88,6 +88,8 @@ def plain(text: str, n: int = 150) -> str:
 
 def seo_plain(text: str) -> str:
     """description 용 평문: 이미지·제목·주소 제거, 링크는 글자만 남긴다(원문 문장 외에는 아무것도 더하지 않는다)."""
+    # 링크 카드처럼 링크 하나뿐인 줄(사이트 소개 문구 등)은 본문 문장이 아니므로 설명에서 뺀다
+    text = re.sub(r"^\s*\[[^\]]+\]\([^)]+\)\s*$", "", text, flags=re.M)
     s = re.sub(r"!\[[^\]]*\]\([^)]+\)", "", text)
     s = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", s)
     s = re.sub(r"https?://[^\s)\]]+", " ", s)

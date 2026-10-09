@@ -5,7 +5,7 @@ date: 2026-06-27
 last_modified_at: 2026-09-10
 tags: ["기술"]
 canonical_url: https://jalhana.com/blog/hard-to-discard
-description: "파일럿으로 분석한 거제시의회에는 한 임기에 약 600개의 안건이 있습니다. 2018년부터 2026년까지는 두 임기로 1,206건. 거제시 잘하나 닷컴 우리 지역 결정을 한눈에! 거제시의회 회의록과 의안을 쉽게 정리합니다."
+description: "파일럿으로 분석한 거제시의회에는 한 임기에 약 600개의 안건이 있습니다. 2018년부터 2026년까지는 두 임기로 1,206건. 그 흩어진 안건 속에서 같은 주제의 사안을 찾아 연결합니다. 조각을 찾고 이어 연결하는 것을 '사안 연결'이라 부릅니다."
 image: {"path": "https://jalhana.com/blog/images/hard-to-discard/hard-to-discard-section-01-illustration-03-a2a635b2170b.webp", "alt": "거제시 잘하나 메인페이지 - 1,206 의안의 추적", "width": 993, "height": 597}
 source_num: "007"
 ---
