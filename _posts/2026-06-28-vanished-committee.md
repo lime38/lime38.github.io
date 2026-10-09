@@ -2,9 +2,11 @@
 layout: post
 title: "사안을 따라가다 보니, 위원회가 사라졌다"
 date: 2026-06-28
+last_modified_at: 2026-09-10
 tags: ["기술"]
 canonical_url: https://jalhana.com/blog/vanished-committee
-description: "사안을 시간순으로 거슬러 올라가던 중, 이상한 일을 만났습니다. 위원회가 갑자기 사라져 버렸습니다. 사실, 지방의회 위원회는 임기마다 이름이 바뀌기도 하고,, 통합되거나 나뉘기도 합니다. 평소엔 크게 의식하지 못하지만, 하나의 사안을 8년, 10년씩 따라가다 보면 그 "
+description: "사안을 시간순으로 거슬러 올라가던 중, 이상한 일을 만났습니다. 위원회가 갑자기 사라져 버렸습니다. 사실, 지방의회 위원회는 임기마다 이름이 바뀌기도 하고,, 통합되거나 나뉘기도 합니다."
+image: {"path": "https://jalhana.com/blog/images/vanished-committee/vanished-committee-section-01-illustration-04-3f5629a30e22.webp", "alt": "2018년 산업건설위원회 회의록 - 흥남철수기념공원 사안", "width": 1049, "height": 464}
 source_num: "008"
 ---
 ## 사라진 위원회
@@ -15,7 +17,7 @@ source_num: "008"
 
 사실, 지방의회 위원회는 임기마다 이름이 바뀌기도 하고,, 통합되거나 나뉘기도 합니다. 평소엔 크게 의식하지 못하지만, 하나의 사안을 8년, 10년씩 따라가다 보면 그 변화가 그대로 드러납니다.
 
-![2018년 산업건설위원회 회의록 - 흥남철수기념공원 사안](https://jalhana.com/blog/images/vanished-committee/vanished-committee-section-01-illustration-04-3f5629a30e22.webp)
+![2018년 산업건설위원회 회의록 - 흥남철수기념공원 사안](https://jalhana.com/blog/images/vanished-committee/vanished-committee-section-01-illustration-04-3f5629a30e22.webp){: loading="lazy" decoding="async" width="1049" height="464"}
 
 ## 생각보다 잦은 위원회 변경 사례
 
@@ -23,7 +25,7 @@ source_num: "008"
 
 2018년 '산업건설위원회'에서 조성에 대한 논의가 시작됐습니다. 그런데 2026년 운영 조례를 통과시킨 곳은 다름아닌 '경제관광위원회'였습니다.
 
-![2026년 경제관광위원회 회의록 - 흥남철수기념공원 사안](https://jalhana.com/blog/images/vanished-committee/vanished-committee-section-02-illustration-08-bbb1194f90a8.webp)
+![2026년 경제관광위원회 회의록 - 흥남철수기념공원 사안](https://jalhana.com/blog/images/vanished-committee/vanished-committee-section-02-illustration-08-bbb1194f90a8.webp){: loading="lazy" decoding="async" width="1142" height="522"}
 
 처음 설계할 때는 같은 위원회에서 다룬 안건끼리 묶으려 했습니다.
 운영 주체를 따라가면 비슷한 사안을 구분하기도 쉬워 보였기 때문입니다.
@@ -49,7 +51,7 @@ AI는 대원칙보다 세부 규칙만 주면, 결국 가장 편한 기준으로
 
 하지만 위원회 기준으로 정리하면 서로 다른 사안이 되어 버립니다.
 
-![하나의 사안으로 묶어 한 페이지로 타임라인화](https://jalhana.com/blog/images/vanished-committee/vanished-committee-section-02-illustration-18-b4baa4ee2ef1.webp)
+![하나의 사안으로 묶어 한 페이지로 타임라인화](https://jalhana.com/blog/images/vanished-committee/vanished-committee-section-02-illustration-18-b4baa4ee2ef1.webp){: loading="lazy" decoding="async" width="1158" height="666"}
 
 ## 하나의 내용으로 묶어야
 
@@ -71,7 +73,7 @@ AI는 대원칙보다 세부 규칙만 주면, 결국 가장 편한 기준으로
 
 그래야 위원회 이름이 바뀌어도, 조직이 개편되어도, 시민은 하나의 흐름으로 따라갈 수 있습니다.
 
-![원칙에서 '잘하나가 하는 일' 일부](https://jalhana.com/blog/images/vanished-committee/vanished-committee-section-03-illustration-28-424c80c77dec.webp)
+![원칙에서 '잘하나가 하는 일' 일부](https://jalhana.com/blog/images/vanished-committee/vanished-committee-section-03-illustration-28-424c80c77dec.webp){: loading="lazy" decoding="async" width="1050" height="341"}
 
 ## 잘하나가 하는 일
 

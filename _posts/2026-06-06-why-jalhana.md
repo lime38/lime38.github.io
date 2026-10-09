@@ -2,9 +2,11 @@
 layout: post
 title: "시작한 이유"
 date: 2026-06-06
+last_modified_at: 2026-08-30
 tags: ["철학"]
 canonical_url: https://jalhana.com/blog/why-jalhana
-description: "여러 장의 투표지를 받았습니다. 우리 동네를 대표해 의사결정을 할 사람을 고르라는 것이었습니다. 아는 건 이런 당 저런 당 밖에 없고, 처음 보는 후보들 이름이 얼른 자신을 찍으라고 등떠밀고 있었습니다. 결국 당을 보고 찍는 것이 최선이었고, 이게 내 의견을 반영할 수"
+description: "여러 장의 투표지를 받았습니다. 우리 동네를 대표해 의사결정을 할 사람을 고르라는 것이었습니다. 아는 건 이런 당 저런 당 밖에 없고, 처음 보는 후보들 이름이 얼른 자신을 찍으라고 등떠밀고 있었습니다."
+image: {"path": "https://jalhana.com/blog/images/why-jalhana/why-jalhana-section-03-illustration-14-201cde2a95f6.webp", "alt": "거제시의회 회의록 일부", "width": 1807, "height": 924}
 source_num: "001"
 ---
 ## 26년 6월 3일 지방선거가 있었습니다.
@@ -35,13 +37,13 @@ source_num: "001"
 
 어린 시절 학급회의 이후, 이러한 절차가 따르는 이벤트는 느리면서 생동감도 떨어져 현실과의 괴리감이 느껴집니다. 분명 아주 중요한 결정을 하고 있는데도, 이상하리만큼 흥미가 생기지 않습니다.
 
-![거제시의회 회의록 일부](https://jalhana.com/blog/images/why-jalhana/why-jalhana-section-03-illustration-14-201cde2a95f6.webp)
+![거제시의회 회의록 일부](https://jalhana.com/blog/images/why-jalhana/why-jalhana-section-03-illustration-14-201cde2a95f6.webp){: loading="lazy" decoding="async" width="1807" height="924"}
 
 물론 이를 극복하기 위해 요즘엔 유튜브를 통해 회의를 생중계 하기도 하고, 의회 사이트에서 이를 그대로 볼 수도 있게 되었습니다만, 그럼에도 불구하고 따라가기가 너무 힘듭니다. 마치 수 년간 이어진 RPG 게임에 갑자기 투입되는 느낌일까요? 이전 이야기를 모르니 글을 읽어도, 영상을 봐도 금세 길을 잃습니다.
 
 거제시의회 한 곳만 해도, 한 임기 4년에 회의가 500번이 넘습니다. 한 회의 회의록이 길게는 100페이지가 넘고, 그 안에 동네의 주차장, 통학로, 놀이터, 단지 옆 아파트 주민의 잠 못 드는 밤이 다 들어 있습니다. 그런데도 아무도 안 읽습니다. 읽을 수가 없으니까요.
 
-![지역 결정을 알기 어려운 이유](https://jalhana.com/blog/images/why-jalhana/why-jalhana-section-03-illustration-17-702783c6def2.webp)
+![지역 결정을 알기 어려운 이유](https://jalhana.com/blog/images/why-jalhana/why-jalhana-section-03-illustration-17-702783c6def2.webp){: loading="lazy" decoding="async" width="1229" height="614"}
 
 ## 정보는 오히려 너무 많다. 물론 나는 못 읽는다.
 
@@ -67,7 +69,7 @@ Trustless.
 
 쉽게 말해서 '사람을 믿지 못하니, 규칙을 정해서 기계의 힘을 빌려보는건 어떨까요?'라는 말을 하고 싶은 것입니다.
 
-![공개된 회의록 활용 방법](https://jalhana.com/blog/images/why-jalhana/why-jalhana-section-06-illustration-30-ee1bc87bed0f.webp)
+![공개된 회의록 활용 방법](https://jalhana.com/blog/images/why-jalhana/why-jalhana-section-06-illustration-30-ee1bc87bed0f.webp){: loading="lazy" decoding="async" width="1013" height="598"}
 
 ## 판단과 편집은 다르다
 
@@ -107,7 +109,7 @@ Trustless.
 
 때문에 잘하나는 '양쪽의 말을 똑같이 보여주는 균형'을 목표로 하지 않습니다. 이미 기울어진 기록을 그대로 똑같이 비추면, 그 비탈을 재생산할 뿐이니까요. 잘하나가 하는 건 '객관 평면의 편집' 즉 렌즈의 보정입니다. 목소리의 크기가 아니라 '논리 vs 논리' 구도를 만드는 것. 현실에서 받는 영향의 크기에 더 가까운 그림을 만드는 것.. 그것입니다.
 
-![잘하나 메인](https://jalhana.com/blog/images/why-jalhana/why-jalhana-section-08-illustration-50-8aa371cf114f.webp)
+![잘하나 메인](https://jalhana.com/blog/images/why-jalhana/why-jalhana-section-08-illustration-50-8aa371cf114f.webp){: loading="lazy" decoding="async" width="1265" height="488"}
 
 ## 잘하나
 

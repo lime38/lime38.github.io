@@ -2,16 +2,18 @@
 layout: post
 title: "회의록과 기록 읽기"
 date: 2026-06-21
+last_modified_at: 2026-09-02
 tags: ["철학"]
 canonical_url: https://jalhana.com/blog/reading-minutes
-description: "'권력은 흔적을 남기고, 약자는 묻힌다' 어렸을 때 조선왕조실록을 읽으며 관련 서적에서 이 문장을 접했습니다. 그 뒤로 저는 \"내가 알고 있는 역사는 정말 객관적인가?\"라는 질문을 오래 품게 되었습니다. 역사는 과거와 현재와의 대화이기도 하지만, 기록이라는 것이 승자의"
+description: "'권력은 흔적을 남기고, 약자는 묻힌다' 어렸을 때 조선왕조실록을 읽으며 관련 서적에서 이 문장을 접했습니다. 그 뒤로 저는 \"내가 알고 있는 역사는 정말 객관적인가?\"라는 질문을 오래 품게 되었습니다."
+image: {"path": "https://jalhana.com/blog/images/reading-minutes/reading-minutes-section-01-illustration-02-b4baa4ee2ef1.webp", "alt": "잘하나의 사안 추적 - 진척도 모델", "width": 1158, "height": 666}
 source_num: "005"
 ---
 ## 기록의 구조적 비대칭
 
 '권력은 흔적을 남기고, 약자는 묻힌다' 어렸을 때 조선왕조실록을 읽으며 관련 서적에서 이 문장을 접했습니다. 그 뒤로 저는 "내가 알고 있는 역사는 정말 객관적인가?"라는 질문을 오래 품게 되었습니다. 역사는 과거와 현재와의 대화이기도 하지만, 기록이라는 것이 승자의 입장에서 쓰이기 때문에 유리하게 서술될 수 있기 때문입니다.
 
-![잘하나의 사안 추적 - 진척도 모델](https://jalhana.com/blog/images/reading-minutes/reading-minutes-section-01-illustration-02-b4baa4ee2ef1.webp)
+![잘하나의 사안 추적 - 진척도 모델](https://jalhana.com/blog/images/reading-minutes/reading-minutes-section-01-illustration-02-b4baa4ee2ef1.webp){: loading="lazy" decoding="async" width="1158" height="666"}
 
 요며칠 파일럿 의회를 계속 들여다보다가, 이상한 느낌이 들었습니다.
 회의록은 분명 거짓말을 하지 않습니다.
@@ -39,7 +41,7 @@ source_num: "005"
 
 어떤가요? 실감나는 현장을 외면하듯, 기록은 현실 전체를 담지 못합니다.
 
-![노자산 개발 관련 사안 - 쟁점과 현주소를 알려줍니다](https://jalhana.com/blog/images/reading-minutes/reading-minutes-section-02-illustration-15-63df04a43cec.webp)
+![노자산 개발 관련 사안 - 쟁점과 현주소를 알려줍니다](https://jalhana.com/blog/images/reading-minutes/reading-minutes-section-02-illustration-15-63df04a43cec.webp){: loading="lazy" decoding="async" width="1192" height="531"}
 
 권력은 흔적을 남기고, 약자는 자연스레 묻힙니다. 따라서 기록을 그대로 반복해서 보여주는 것만으로는, 기록 바깥의 비대칭까지 함께 이해하기는 어렵습니다.
 
@@ -55,7 +57,7 @@ source_num: "005"
 좋은 기록 읽기는 적힌 것을 읽는 데서 끝나지 않습니다. 적히지 못한 것을 묻는 데서 시작합니다.
 그래서 잘하나가 이러한 기록을 충분히 의심하도록 최대한 노력했습니다.
 
-![여섯 축으로 보기 - 노자산 개발 지속성과 시민체감도 영향규모 등](https://jalhana.com/blog/images/reading-minutes/reading-minutes-section-03-illustration-22-0c12c1cc6a4a.webp)
+![여섯 축으로 보기 - 노자산 개발 지속성과 시민체감도 영향규모 등](https://jalhana.com/blog/images/reading-minutes/reading-minutes-section-03-illustration-22-0c12c1cc6a4a.webp){: loading="lazy" decoding="async" width="1147" height="708"}
 
 ## 세 가지 보정
 
@@ -69,7 +71,7 @@ source_num: "005"
 
 다르게 말하면 '무엇이 안 적혔나'를 한 번 생각해 봅니다. 좋은 기록 읽기는 적힌 것을 읽는 데서 끝나지 않습니다. 누가 등장하지 못했는지, 어떤 일이 조용히 사라졌는지를 함께 묻는 일입니다. 그래서,, 누가 이 회의록에 등장하지 못했나. 누구의 목소리가 대리로만 전해졌나. 어떤 일이 조용히 사라졌나. 그 빈자리를 보는 것이, 기울어진 기록에서 현실을 건져 올리는 첫걸음입니다.
 
-![](https://jalhana.com/blog/images/reading-minutes/reading-minutes-section-04-illustration-29-2e9a297a13f4.webp)
+![](https://jalhana.com/blog/images/reading-minutes/reading-minutes-section-04-illustration-29-2e9a297a13f4.webp){: loading="lazy" decoding="async" width="1130" height="454"}
 
 ## 마치며
 

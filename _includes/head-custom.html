@@ -1,0 +1,30 @@
+{%- comment -%}
+  jekyll-seo-tag({% seo %}) 가 내지 않는 head 요소만 여기서 낸다. JSON-LD 는 seo-tag 한 곳에서만 나온다.
+{%- endcomment -%}
+<meta name="theme-color" content="#fdfdfd" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#14171c" media="(prefers-color-scheme: dark)">
+<link rel="icon" href="{{ '/assets/favicon.ico' | relative_url }}" sizes="any">
+<link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/favicon-32.png' | relative_url }}">
+<link rel="icon" type="image/png" sizes="512x512" href="{{ '/assets/jalhana-512.png' | relative_url }}">
+<link rel="apple-touch-icon" href="{{ '/assets/apple-touch-icon.png' | relative_url }}">
+<link rel="alternate" hreflang="ko" href="{{ page.canonical_url | default: page.url | absolute_url }}">
+{%- if page.prev_url %}
+<link rel="prev" href="{{ page.prev_url | absolute_url }}">
+{%- endif %}
+{%- if page.next_url %}
+<link rel="next" href="{{ page.next_url | absolute_url }}">
+{%- endif %}
+{%- if page.layout == "post" %}
+{%- if page.tags.first %}
+<meta property="article:section" content="{{ page.tags.first | escape }}">
+{%- endif %}
+{%- for tag in page.tags %}
+<meta property="article:tag" content="{{ tag | escape }}">
+{%- endfor %}
+{%- endif %}
+{%- if site.google_site_verification and site.google_site_verification != "" %}
+<meta name="google-site-verification" content="{{ site.google_site_verification }}">
+{%- endif %}
+{%- if site.bing_site_verification and site.bing_site_verification != "" %}
+<meta name="msvalidate.01" content="{{ site.bing_site_verification }}">
+{%- endif %}

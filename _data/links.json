@@ -8,6 +8,7 @@
     { "name": "Brunch",    "icon": "brunch",    "label": "브런치 @jalhana12",           "url": "https://brunch.co.kr/@jalhana12",               "rel": "me noopener" },
     { "name": "Velog",     "icon": "velog",     "label": "Velog @jalhana",             "url": "https://velog.io/@jalhana",                     "rel": "me noopener" },
     { "name": "GitHub",    "icon": "github",    "label": "GitHub @lime38",             "url": "https://github.com/lime38",                     "rel": "me noopener" },
-    { "name": "jalhana",   "icon": "",          "label": "jalhana.com",                "url": "https://jalhana.com/",                          "rel": "" }
+    { "name": "jalhana",   "icon": "",          "label": "jalhana.com",                "url": "https://jalhana.com/",                          "rel": "" },
+    { "name": "assembly",  "icon": "",          "label": "국회 잘하나",                 "url": "https://jalhana.com/assembly/",                 "rel": "" }
   ]
 }

@@ -2,9 +2,11 @@
 layout: post
 title: "남의 일이 아니라, 아직 안 온 것일 뿐"
 date: 2026-07-01
+last_modified_at: 2026-07-01
 tags: ["철학"]
 canonical_url: https://jalhana.com/blog/not-someone-elses-problem
-description: "한 의회의 8년 기록을 발굴하다 보니 어느 정도 사례가 쌓였습니다. 공공산후조리원, 국공립어린이집, 다함께돌봄센터, 아동학대 대응, 무상급식, 다문화가족, 장애인복지관, 반다비 체육센터, 장애인 표준사업장, 노인일자리, 독거노인 지원, 치매안심센터 등등. 사안을 하나씩"
+description: "한 의회의 8년 기록을 발굴하다 보니 어느 정도 사례가 쌓였습니다. 공공산후조리원, 국공립어린이집, 다함께돌봄센터, 아동학대 대응, 무상급식, 다문화가족, 장애인복지관, 반다비 체육센터, 장애인 표준사업장, 노인일자리, 독거노인 지원, 치매안심센터 등등."
+image: {"path": "https://jalhana.com/blog/images/not-someone-elses-problem/not-someone-elses-problem-section-01-illustration-09-86afb2560b90.webp", "alt": "거제시 잘하나 주제별 보기 : 아동 보육", "width": 1208, "height": 633}
 source_num: "011"
 ---
 ## 요람에서 무덤까지
@@ -26,7 +28,7 @@ source_num: "011"
 
 다른 위원회, 다른 해, 다른 예산 줄에 붙어 있던 것들이기도 합니다..
 
-![거제시 잘하나 주제별 보기 : 아동 보육](https://jalhana.com/blog/images/not-someone-elses-problem/not-someone-elses-problem-section-01-illustration-09-86afb2560b90.webp)
+![거제시 잘하나 주제별 보기 : 아동 보육](https://jalhana.com/blog/images/not-someone-elses-problem/not-someone-elses-problem-section-01-illustration-09-86afb2560b90.webp){: loading="lazy" decoding="async" width="1208" height="633"}
 
 하나씩 보면 다들 조용한 안건이죠.
 
@@ -44,7 +46,7 @@ source_num: "011"
 
 빠진 구간이 거의 없습니다.
 
-![거제시 잘하나 주제별 보기 : 노인복지](https://jalhana.com/blog/images/not-someone-elses-problem/not-someone-elses-problem-section-01-illustration-15-f59acd3dc9f4.webp)
+![거제시 잘하나 주제별 보기 : 노인복지](https://jalhana.com/blog/images/not-someone-elses-problem/not-someone-elses-problem-section-01-illustration-15-f59acd3dc9f4.webp){: loading="lazy" decoding="async" width="1206" height="757"}
 
 ## 남의 일이 아니다
 
@@ -69,7 +71,7 @@ source_num: "011"
 
 [거제시 잘하나 - 어르신 목욕비 사안](https://jalhana.com/geoje/issues/elderly-bath-hair-subsidy)
 
-![거제시 잘하나 - 어르신 목욕비 사안](https://jalhana.com/blog/images/not-someone-elses-problem/not-someone-elses-problem-section-02-illustration-26-eaea0e752542.webp)
+![거제시 잘하나 - 어르신 목욕비 사안](https://jalhana.com/blog/images/not-someone-elses-problem/not-someone-elses-problem-section-02-illustration-26-eaea0e752542.webp){: loading="lazy" decoding="async" width="1001" height="607"}
 
 회의록 한 장에서는 사업과 예산이 보입니다.
 

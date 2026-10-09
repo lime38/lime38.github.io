@@ -2,9 +2,11 @@
 layout: post
 title: "의원이 한 일을 어떻게 기록할까"
 date: 2026-07-10
+last_modified_at: 2026-07-10
 tags: ["기술"]
 canonical_url: https://jalhana.com/blog/how-to-record-lawmakers-work
-description: "내 동네 시의원이 4년간 무엇을 했나.. 결국 잘하나의 질문 중 가장 중요한 것 중 하나입니다. 그런데 이것을 막상 살피려고 하면 벽에 부딪힙니다. 우선, 떠오르는 건 표결입니다. 의원이 어느 안건에 찬성했고, 반대했는지 보는 것입니다. 그런데 의원별 표결 결과가 모든"
+description: "내 동네 시의원이 4년간 무엇을 했나.. 결국 잘하나의 질문 중 가장 중요한 것 중 하나입니다. 그런데 이것을 막상 살피려고 하면 벽에 부딪힙니다. 우선, 떠오르는 건 표결입니다. 의원이 어느 안건에 찬성했고, 반대했는지 보는 것입니다."
+image: {"path": "https://jalhana.com/blog/images/how-to-record-lawmakers-work/how-to-record-lawmakers-work-section-01-illustration-05-aad1aedbfb99.webp", "alt": "경기도 잘하나 - 인사청문 채택 건 찬성 반대 결과", "width": 885, "height": 305}
 source_num: "015"
 ---
 ## 말과 발의
@@ -19,9 +21,9 @@ source_num: "015"
 
 모든 지방의회에서 같은 형식으로 공개되는 것은 아닙니다.
 
-![경기도 잘하나 - 인사청문 채택 건 찬성 반대 결과](https://jalhana.com/blog/images/how-to-record-lawmakers-work/how-to-record-lawmakers-work-section-01-illustration-05-aad1aedbfb99.webp)
+![경기도 잘하나 - 인사청문 채택 건 찬성 반대 결과](https://jalhana.com/blog/images/how-to-record-lawmakers-work/how-to-record-lawmakers-work-section-01-illustration-05-aad1aedbfb99.webp){: loading="lazy" decoding="async" width="885" height="305"}
 
-![수원시 잘하나 - 인사청문 채택 건 결과](https://jalhana.com/blog/images/how-to-record-lawmakers-work/how-to-record-lawmakers-work-section-01-illustration-06-09773354b5a3.webp)
+![수원시 잘하나 - 인사청문 채택 건 결과](https://jalhana.com/blog/images/how-to-record-lawmakers-work/how-to-record-lawmakers-work-section-01-illustration-06-09773354b5a3.webp){: loading="lazy" decoding="async" width="883" height="289"}
 
 회의록 본문에 개별 의원의 찬반이 드러나지 않거나,
 
@@ -40,7 +42,7 @@ source_num: "015"
 
 말(발언)과 발의(의안을 낸 것)입니다.
 
-![수원시 잘하나 - 청개구리 학부모지원단 언급된 기록 타임라인](https://jalhana.com/blog/images/how-to-record-lawmakers-work/how-to-record-lawmakers-work-section-01-illustration-15-1dc3cf159715.webp)
+![수원시 잘하나 - 청개구리 학부모지원단 언급된 기록 타임라인](https://jalhana.com/blog/images/how-to-record-lawmakers-work/how-to-record-lawmakers-work-section-01-illustration-15-1dc3cf159715.webp){: loading="lazy" decoding="async" width="874" height="530"}
 
 ## 말만 보면 안 된다
 
@@ -65,7 +67,7 @@ source_num: "015"
 대표발의자 한 명만 표시되어 있어,
 나머지 다섯 명이 누구인지 확인하기 어려운 경우도 있습니다.
 
-![거제시 잘하나 - 의원 발의, 대표발의 기록 일부](https://jalhana.com/blog/images/how-to-record-lawmakers-work/how-to-record-lawmakers-work-section-03-illustration-24-b4d950fbb457.webp)
+![거제시 잘하나 - 의원 발의, 대표발의 기록 일부](https://jalhana.com/blog/images/how-to-record-lawmakers-work/how-to-record-lawmakers-work-section-03-illustration-24-b4d950fbb457.webp){: loading="lazy" decoding="async" width="869" height="565"}
 
 표기도 제각각입니다.
 
@@ -79,13 +81,13 @@ source_num: "015"
 
 아래와 같이 발언, 관여 사안, 대표발의, 발의가 명확하게 구분이 되고,
 
-![거제시 잘하나 - 의원 활동 사안 중 일부](https://jalhana.com/blog/images/how-to-record-lawmakers-work/how-to-record-lawmakers-work-section-03-illustration-30-b299dee908ed.webp)
+![거제시 잘하나 - 의원 활동 사안 중 일부](https://jalhana.com/blog/images/how-to-record-lawmakers-work/how-to-record-lawmakers-work-section-03-illustration-30-b299dee908ed.webp){: loading="lazy" decoding="async" width="874" height="639"}
 
 수집 데이터가 의회마다 다르기에,
 
 각 최대 발언/관여/발의 의원의 차이가 생기기도 합니다.
 
-![경상남도 잘하나 - 의원 활동 사안 중 일부](https://jalhana.com/blog/images/how-to-record-lawmakers-work/how-to-record-lawmakers-work-section-03-illustration-33-36405ba76d72.webp)
+![경상남도 잘하나 - 의원 활동 사안 중 일부](https://jalhana.com/blog/images/how-to-record-lawmakers-work/how-to-record-lawmakers-work-section-03-illustration-33-36405ba76d72.webp){: loading="lazy" decoding="async" width="877" height="693"}
 
 이처럼, 매 번 얘기하듯
 
@@ -111,7 +113,7 @@ source_num: "015"
 의회마다 공개 수준이 다르다는 것,
 실제 발의했어도 수집 과정에서 확인되지 않을 수 있다는 것.
 
-![잘하나 소개 - 점수나 등급, 랭킹 등으로 판정하지 않음.](https://jalhana.com/blog/images/how-to-record-lawmakers-work/how-to-record-lawmakers-work-section-04-illustration-43-cb90e66ed64f.webp)
+![잘하나 소개 - 점수나 등급, 랭킹 등으로 판정하지 않음.](https://jalhana.com/blog/images/how-to-record-lawmakers-work/how-to-record-lawmakers-work-section-04-illustration-43-cb90e66ed64f.webp){: loading="lazy" decoding="async" width="862" height="624"}
 
 그래서 의원에게 점수나 등급을 매기지 않습니다.
 '발의 12건, A등급' 같은 줄 세우기도,
@@ -132,7 +134,7 @@ source_num: "015"
 ### 관련 보기
 
 - [거제시 잘하나: 공직자 — 의원별 관여·대표발의·발의 기록](https://jalhana.com/geoje/members/)
-- [경상남도 잘하나: 공직자 — 의원별 활동 기록](https://jalhana.com/gyeongnam/members/)
+- [국회 잘하나 — 국회 결정을 한눈에](https://jalhana.com/assembly/)
 - [제도별 보기: 지방 인사청문회](https://jalhana.com/hubs/personnel-hearing)
 - [잘하나 블로그 원문 — 의원이 한 일을 어떻게 기록할까](https://jalhana.com/blog/how-to-record-lawmakers-work)
 

@@ -2,9 +2,11 @@
 layout: post
 title: "AI 요약을 믿을 수 있나?"
 date: 2026-06-24
+last_modified_at: 2026-09-03
 tags: ["기술"]
 canonical_url: https://jalhana.com/blog/trust-ai-summary
-description: "AI로 회의록을 요약한다고 하면, 거의 모든 사람이 같은 질문을 합니다. \"그거 믿을 수 있어요? AI가 지어낸 거 아니에요?\" 이건 정당한 의심입니다. ChatGPT를 쓰면서 가장 답답한 것이 윗 내용을 기억하지 못하고 말을 지어내는 환각증상 이니까요. AI는 근거를"
+description: "AI로 회의록을 요약한다고 하면, 거의 모든 사람이 같은 질문을 합니다. \"그거 믿을 수 있어요? AI가 지어낸 거 아니에요?\" 이건 정당한 의심입니다. ChatGPT를 쓰면서 가장 답답한 것이 윗 내용을 기억하지 못하고 말을 지어내는 환각증상 이니까요."
+image: {"path": "https://jalhana.com/blog/images/trust-ai-summary/trust-ai-summary-section-01-illustration-05-b9bfca4a52bf.webp", "alt": "원문 링크 - 발언에는 원문 근거가 붙어 있습니다", "width": 1236, "height": 845}
 source_num: "006"
 ---
 ## AI가 요약했는데, 어떻게 믿어요?
@@ -19,7 +21,7 @@ ChatGPT를 쓰면서 가장 답답한 것이 윗 내용을 기억하지 못하�
 AI는 근거를 다시 보여주면 훨씬 안정적으로 판단합니다.
 회의록은 그 근거가 됩니다. 그래서 원문을 찾아갈 수 있도록 설계했습니다.
 
-![원문 링크 - 발언에는 원문 근거가 붙어 있습니다](https://jalhana.com/blog/images/trust-ai-summary/trust-ai-summary-section-01-illustration-05-b9bfca4a52bf.webp)
+![원문 링크 - 발언에는 원문 근거가 붙어 있습니다](https://jalhana.com/blog/images/trust-ai-summary/trust-ai-summary-section-01-illustration-05-b9bfca4a52bf.webp){: loading="lazy" decoding="async" width="1236" height="845"}
 
 ## 클릭하면 원문으로
 
@@ -40,7 +42,7 @@ ChatGPT를 처음 써 보고 가장 놀랐던 건 요약 능력이었습니다.
 이 구조를 만든 김에 실명 노출도 함께 정리했습니다.
 '투자유치과장 최모모' 씨는 '투자유치과장 최OO'으로 만들었습니다.
 
-![](https://jalhana.com/blog/images/trust-ai-summary/trust-ai-summary-section-02-illustration-13-f9ca50b9324c.webp)
+![](https://jalhana.com/blog/images/trust-ai-summary/trust-ai-summary-section-02-illustration-13-f9ca50b9324c.webp){: loading="lazy" decoding="async" width="1183" height="534"}
 
 우리는 그 공무원의 직위를 알고싶은 거지, 그 사람이 누군지 실명을 원하는 것이 아니니까요.
 (또 마스킹 된 자료는 다음에 유용하게 사용할 계획입니다)
@@ -59,7 +61,7 @@ ChatGPT를 처음 써 보고 가장 놀랐던 건 요약 능력이었습니다.
 더 자세히 풀면, 우선 회의록을 발언 한 턴씩 쪼갭니다.
 누가 말했는지, 의원인지 공무원인지, 어느 위원회인지, 몇 번째 발언인지(seq) 모두 좌표를 붙입니다. 그러면 AI가 만든 모든 문장 요약/사안/점수에 '근거 앵커'라는 좌표가 따라다닙니다. 어느 회의(uid), 어느 발언(seq)인지 알 수 있게 되는 것이죠.
 
-![제작 과정 일부 - '원문 전수 재검증' 원칙이 존재](https://jalhana.com/blog/images/trust-ai-summary/trust-ai-summary-section-03-illustration-21-e57d88b698a9.webp)
+![제작 과정 일부 - '원문 전수 재검증' 원칙이 존재](https://jalhana.com/blog/images/trust-ai-summary/trust-ai-summary-section-03-illustration-21-e57d88b698a9.webp){: loading="lazy" decoding="async" width="1067" height="512"}
 
 덕분에
 화면에서는 클릭 한 번이면 그 발언으로 점프하고, 그 문장이 노랗게 칠해집니다.
@@ -78,7 +80,7 @@ ChatGPT를 처음 써 보고 가장 놀랐던 건 요약 능력이었습니다.
 대부분의 AI 서비스는 답만 보여줍니다.
 잘하나는 답보다 근거를 먼저 보여주려고 합니다.
 
-![](https://jalhana.com/blog/images/trust-ai-summary/trust-ai-summary-section-04-illustration-29-f63fa49ad388.webp)
+![](https://jalhana.com/blog/images/trust-ai-summary/trust-ai-summary-section-04-illustration-29-f63fa49ad388.webp){: loading="lazy" decoding="async" width="1037" height="314"}
 
 물론, AI가 틀릴 수도 있습니다.
 그래서 우리는 AI를 믿지 않습니다.

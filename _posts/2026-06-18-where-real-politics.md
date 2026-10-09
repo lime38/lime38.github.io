@@ -2,16 +2,18 @@
 layout: post
 title: "진짜 정치는 어디에서?"
 date: 2026-06-18
+last_modified_at: 2026-08-30
 tags: ["사회"]
 canonical_url: https://jalhana.com/blog/where-real-politics
-description: "본회의는 사실상 통과 의식에 가깝습니다. 진짜 정치는 위원회에서 끝나 있기 때문입니다. '지방의회'라고 하면 떠오르는 장면이 있습니다. 의원들이 자리에 앉아 있고, 의장이 안건을 읽고, 손을 들거나 \"이의 없습니다\"라고 답하는 것이죠. 이것이 본회의장 현장입니다. 우리"
+description: "본회의는 사실상 통과 의식에 가깝습니다. 진짜 정치는 위원회에서 끝나 있기 때문입니다. '지방의회'라고 하면 떠오르는 장면이 있습니다. 의원들이 자리에 앉아 있고, 의장이 안건을 읽고, 손을 들거나 \"이의 없습니다\"라고 답하는 것이죠. 이것이 본회의장 현장입니다."
+image: {"path": "https://jalhana.com/blog/images/where-real-politics/where-real-politics-section-01-illustration-02-d214caa26a0a.webp", "alt": "261회 제2차 본회의 회의록 일부 - 결과의 대부분이 원안 가결", "width": 1111, "height": 882}
 source_num: "004"
 ---
 ## 실제 회의는 어떨까?
 
 본회의는 사실상 통과 의식에 가깝습니다. 진짜 정치는 위원회에서 끝나 있기 때문입니다. '지방의회'라고 하면 떠오르는 장면이 있습니다. 의원들이 자리에 앉아 있고, 의장이 안건을 읽고, 손을 들거나 "이의 없습니다"라고 답하는 것이죠. 이것이 본회의장 현장입니다. 우리가 뉴스에서 자주 보는 의회의 모습도 대부분 본회의입니다.
 
-![261회 제2차 본회의 회의록 일부 - 결과의 대부분이 원안 가결](https://jalhana.com/blog/images/where-real-politics/where-real-politics-section-01-illustration-02-d214caa26a0a.webp)
+![261회 제2차 본회의 회의록 일부 - 결과의 대부분이 원안 가결](https://jalhana.com/blog/images/where-real-politics/where-real-politics-section-01-illustration-02-d214caa26a0a.webp){: loading="lazy" decoding="async" width="1111" height="882"}
 
 그런데 그 본회의를 실제로 들여다보니 좀 이상합니다.
 
@@ -44,7 +46,7 @@ source_num: "004"
 질의 : 무엇을 끝까지 묻는가.
 발의 : 무엇을 직접 바꾸려 하는가.
 
-![거제시 회의록 261회 제2차 본회의 회의록 일부 - 5분 자유발언](https://jalhana.com/blog/images/where-real-politics/where-real-politics-section-02-illustration-16-70a3843b121e.webp)
+![거제시 회의록 261회 제2차 본회의 회의록 일부 - 5분 자유발언](https://jalhana.com/blog/images/where-real-politics/where-real-politics-section-02-illustration-16-70a3843b121e.webp){: loading="lazy" decoding="async" width="1326" height="729"}
 
 보시다시피 표결 결과를 세는 것은 쉽고 단순하며 빠릅니다. 하지만 진짜 가치 있는 건 그 반대편에 있습니다. 어렵고 느리지만, 위원회 속 발언/질의/발의를 하나하나 따라가 보는 일입니다. 본회의의 '원안가결' 한 줄만으로는 아무것도 보이지 않습니다.
 
@@ -64,6 +66,7 @@ source_num: "004"
 
 - [거제시의회 회의록 모아보기 — 거제시 잘하나](https://jalhana.com/geoje/minutes)
 - [거제시 잘하나 — 사안으로 다시 엮은 거제시의회 의정활동](https://jalhana.com/geoje/)
+- [국회 잘하나 — 국회 결정을 한눈에](https://jalhana.com/assembly/)
 - [잘하나 블로그 원문 — 진짜 정치는 어디에서?](https://jalhana.com/blog/where-real-politics)
 
 </div>

@@ -4,8 +4,21 @@ description: 잘하나가 지방의회 기록을 읽고 편집하는 과정을 �
 url: https://lime38.github.io
 baseurl: ""
 lang: ko
+locale: ko_KR
 timezone: Asia/Seoul
-author: 잘하나
+author:
+  name: 잘하나
+  url: https://jalhana.com/
+
+# jekyll-seo-tag: 게시자 로고(JSON-LD publisher.logo, 저장소 안 /assets 파일)와 트위터 카드
+logo: /assets/jalhana-512.png
+twitter:
+  username: jalhana12
+  card: summary_large_image
+
+# 검색엔진 소유 확인 — 값이 있을 때만 head 에 meta 가 나온다(_includes/head-custom.html).
+google_site_verification: ""
+bing_site_verification: ""
 
 # jekyll-seo-tag: 홈 JSON-LD 의 sameAs (프로필 주소). 푸터 채널(_data/links.json)과 같은 목록.
 social:
@@ -40,12 +53,25 @@ kramdown:
 minima:
   date_format: "%Y-%m-%d"
 
+# 기본 공유 이미지 = 이 저장소의 /assets/og-default.png (글이 자기 image 를 가지면 그것이 이긴다).
+# 글의 image 에 가로세로를 모를 때는 exporter 가 width/height 를 null 로 적어 이 값이 섞이지 않게 한다.
 defaults:
+  - scope:
+      path: ""
+    values:
+      image:
+        path: /assets/og-default.png
+        alt: 잘하나
+        width: 1200
+        height: 630
   - scope:
       path: ""
       type: posts
     values:
       layout: post
+      author:
+        name: 잘하나
+        url: https://jalhana.com/
 
 exclude:
   - README.md

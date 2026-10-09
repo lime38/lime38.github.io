@@ -2,15 +2,17 @@
 layout: post
 title: "파일럿, 8년의 이야기를 잇다"
 date: 2026-06-16
+last_modified_at: 2026-08-30
 tags: ["사회"]
 canonical_url: https://jalhana.com/blog/pilot-eight-years
-description: "앞에서 원칙과 규칙을 세웠습니다. 이제 그 위에 회의록, 의원 명부, 정책, 의안을 얹어 실제로 적용해 봤습니다. 첫 파일럿 지역은 거제시의회입니다. 2018년부터 2026년까지. 거제시는 어떤 결정을 해 왔을까요? 사안을 엮은 결과로 제일 눈에 띄는 것은 8년에 걸친"
+description: "앞에서 원칙과 규칙을 세웠습니다. 이제 그 위에 회의록, 의원 명부, 정책, 의안을 얹어 실제로 적용해 봤습니다. 첫 파일럿 지역은 거제시의회입니다. 2018년부터 2026년까지. 거제시는 어떤 결정을 해 왔을까요?"
+image: {"path": "https://jalhana.com/blog/images/pilot-eight-years/pilot-eight-years-section-01-illustration-02-e89a2be614e9.webp", "alt": "거제 흥남철수기념공원 사안 추적", "width": 1188, "height": 700}
 source_num: "003"
 ---
 ## 파일럿 테스트
 앞에서 원칙과 규칙을 세웠습니다. 이제 그 위에 회의록, 의원 명부, 정책, 의안을 얹어 실제로 적용해 봤습니다. 첫 파일럿 지역은 거제시의회입니다. 2018년부터 2026년까지. 거제시는 어떤 결정을 해 왔을까요?
 
-![거제 흥남철수기념공원 사안 추적](https://jalhana.com/blog/images/pilot-eight-years/pilot-eight-years-section-01-illustration-02-e89a2be614e9.webp)
+![거제 흥남철수기념공원 사안 추적](https://jalhana.com/blog/images/pilot-eight-years/pilot-eight-years-section-01-illustration-02-e89a2be614e9.webp){: loading="lazy" decoding="async" width="1188" height="700"}
 
 ## 기념공원 8년, 우리가 모르는 역사
 
@@ -52,7 +54,7 @@ source_num: "003"
 
 '흥남철수기념공원은 8년 동안 어떻게 흘러왔을까?'
 
-![우리가 하고싶은 사안 추적 모델](https://jalhana.com/blog/images/pilot-eight-years/pilot-eight-years-section-03-illustration-22-b4baa4ee2ef1.webp)
+![우리가 하고싶은 사안 추적 모델](https://jalhana.com/blog/images/pilot-eight-years/pilot-eight-years-section-03-illustration-22-b4baa4ee2ef1.webp){: loading="lazy" decoding="async" width="1158" height="666"}
 
 그 이야기를 한 화면에서 보여주는 것.
 파일럿을 돌려보니, 잘하나가 해야 할 일이 조금 더 선명해졌습니다.

@@ -2,9 +2,11 @@
 layout: post
 title: "시의회와 도의회"
 date: 2026-07-05
+last_modified_at: 2026-07-05
 tags: ["사회"]
 canonical_url: https://jalhana.com/blog/city-vs-provincial-council
-description: "거제에서 부산으로 가려면 거가대교를 건너야 합니다. 그리고 짧은 거리에 비해 꽤 비싼 통행료를 냅니다. 그래서 거제시의회 회의록에는 거가대교 이야기가 꾸준히 나옵니다. 거제시 잘하나 거가대교 https://jalhana.com/geoje/issues/geoga daeg"
+description: "거제에서 부산으로 가려면 거가대교를 건너야 합니다. 그리고 짧은 거리에 비해 꽤 비싼 통행료를 냅니다. 그래서 거제시의회 회의록에는 거가대교 이야기가 꾸준히 나옵니다."
+image: {"path": "https://jalhana.com/blog/images/city-vs-provincial-council/city-vs-provincial-council-section-01-illustration-06-53283e53badf.webp", "alt": "거제시 잘하나 - 거가대교 사안", "width": 714, "height": 645}
 source_num: "013"
 ---
 거제에서 부산으로 가려면 거가대교를 건너야 합니다.
@@ -17,7 +19,7 @@ source_num: "013"
 
 [https://jalhana.com/geoje/issues/geoga-daegyo](https://jalhana.com/geoje/issues/geoga-daegyo)
 
-![거제시 잘하나 - 거가대교 사안](https://jalhana.com/blog/images/city-vs-provincial-council/city-vs-provincial-council-section-01-illustration-06-53283e53badf.webp)
+![거제시 잘하나 - 거가대교 사안](https://jalhana.com/blog/images/city-vs-provincial-council/city-vs-provincial-council-section-01-illustration-06-53283e53badf.webp){: loading="lazy" decoding="async" width="714" height="645"}
 
 2018년에는 통행료를 5,000원 이하로 내려달라는 결의안이 채택됐고,
 이후 의원들은 시장과 담당 부서에 계속 묻습니다.
@@ -42,7 +44,7 @@ source_num: "013"
 
 [https://jalhana.com/gyeongnam/issues/geoga-bridge](https://jalhana.com/gyeongnam/issues/geoga-bridge)
 
-![경상남도 잘하나 - 거가대교 통행료 사안](https://jalhana.com/blog/images/city-vs-provincial-council/city-vs-provincial-council-section-02-illustration-17-b153e45cc8d0.webp)
+![경상남도 잘하나 - 거가대교 통행료 사안](https://jalhana.com/blog/images/city-vs-provincial-council/city-vs-provincial-council-section-02-illustration-17-b153e45cc8d0.webp){: loading="lazy" decoding="async" width="833" height="725"}
 
 그런데 회의록에 등장하는 단어부터 달라집니다.
 
@@ -64,7 +66,7 @@ source_num: "013"
 실제로 2021년 대형트럭과 버스의 통행료가 5,000원 내려갔지만,
 다른 차종의 요금은 그대로였습니다.
 
-![경상남도 잘하나 - 2020-2021년도 거가대교 통행료 인하](https://jalhana.com/blog/images/city-vs-provincial-council/city-vs-provincial-council-section-02-illustration-26-698ec1efd2b1.webp)
+![경상남도 잘하나 - 2020-2021년도 거가대교 통행료 인하](https://jalhana.com/blog/images/city-vs-provincial-council/city-vs-provincial-council-section-02-illustration-26-698ec1efd2b1.webp){: loading="lazy" decoding="async" width="813" height="438"}
 
 이처럼 협상이 쉽지 않자,,
 
@@ -106,7 +108,7 @@ source_num: "013"
 경상남도의회로 가면,,
 같은 통행료 문제를 조금 더 큰 구조에서 다루게 됩니다.
 
-![경상남도 잘하나 - 여섯 축으로 보기](https://jalhana.com/blog/images/city-vs-provincial-council/city-vs-provincial-council-section-04-illustration-43-e08247c8f66d.webp)
+![경상남도 잘하나 - 여섯 축으로 보기](https://jalhana.com/blog/images/city-vs-provincial-council/city-vs-provincial-council-section-04-illustration-43-e08247c8f66d.webp){: loading="lazy" decoding="async" width="814" height="517"}
 
 왜 민간사업자에게 이만큼의 돈을 지급해야 하는지,
 금리를 낮추면 얼마나 절감할 수 있는지,
@@ -168,7 +170,7 @@ source_num: "013"
 
 거가대교를 소재 삼았을 뿐 다른 사안에서도 차이를 볼 수 있습니다.
 
-![경상남도 잘하나 - 거가대교 외 다른 사안 더 보기](https://jalhana.com/blog/images/city-vs-provincial-council/city-vs-provincial-council-section-06-illustration-70-66d790bbc339.webp)
+![경상남도 잘하나 - 거가대교 외 다른 사안 더 보기](https://jalhana.com/blog/images/city-vs-provincial-council/city-vs-provincial-council-section-06-illustration-70-66d790bbc339.webp){: loading="lazy" decoding="async" width="836" height="609"}
 
 이처럼 둘을 나란히 놓고 나서야
 

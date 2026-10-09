@@ -2,9 +2,11 @@
 layout: post
 title: "회의록 정독 이후, 편집 과정"
 date: 2026-08-04
+last_modified_at: 2026-08-04
 tags: ["기술"]
 canonical_url: https://jalhana.com/blog/editing-after-reading-minutes
-description: "사안과 관련된 회의록을 정독한 다음 편집 과정이 필요합니다. 잘하나의 CREG 시스템에서 수집(C)을 거쳐 정독(R)한 뒤에 이어지는 편집(E)입니다. 앞서 (R)에서의 '깊이 읽는 일'과, '읽은 것을 보여주는 일'은 다릅니다. 한 사안을 8년치 회의록으로 정독하면 "
+description: "사안과 관련된 회의록을 정독한 다음 편집 과정이 필요합니다. 잘하나의 CREG 시스템에서 수집(C)을 거쳐 정독(R)한 뒤에 이어지는 편집(E)입니다. 앞서 (R)에서의 '깊이 읽는 일'과, '읽은 것을 보여주는 일'은 다릅니다."
+image: {"path": "/assets/og-default.png", "alt": "잘하나", "width": 1200, "height": 630}
 source_num: "016"
 ---
 # 회의록 정독 이후, 편집 과정

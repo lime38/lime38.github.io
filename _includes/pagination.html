@@ -1,0 +1,29 @@
+{%- assign total = page.total_pages | default: 1 -%}
+{%- if total > 1 -%}
+{%- assign cur = page.page_num | default: 1 -%}
+<nav class="pagination" aria-label="글 목록 쪽 이동">
+  {%- if page.prev_url %}
+  <a class="pg-step" rel="prev" href="{{ page.prev_url | relative_url }}">← 이전</a>
+  {%- else %}
+  <span class="pg-step disabled" aria-hidden="true">← 이전</span>
+  {%- endif %}
+  <span class="pg-sep" aria-hidden="true">·</span>
+  <span class="pg-nums">
+    {%- for n in (1..total) %}
+    {%- if n == cur %}
+    <span class="pg-num current" aria-current="page">{{ n }}</span>
+    {%- elsif n == 1 %}
+    <a class="pg-num" href="{{ '/blog/' | relative_url }}">{{ n }}</a>
+    {%- else %}
+    <a class="pg-num" href="{{ '/blog/page/' | append: n | append: '/' | relative_url }}">{{ n }}</a>
+    {%- endif %}
+    {%- endfor %}
+  </span>
+  <span class="pg-sep" aria-hidden="true">·</span>
+  {%- if page.next_url %}
+  <a class="pg-step" rel="next" href="{{ page.next_url | relative_url }}">다음 →</a>
+  {%- else %}
+  <span class="pg-step disabled" aria-hidden="true">다음 →</span>
+  {%- endif %}
+</nav>
+{%- endif -%}

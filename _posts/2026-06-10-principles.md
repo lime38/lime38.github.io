@@ -2,9 +2,11 @@
 layout: post
 title: "원칙 세우기"
 date: 2026-06-10
+last_modified_at: 2026-08-30
 tags: ["철학"]
 canonical_url: https://jalhana.com/blog/principles
-description: "잘하나에는 '무엇이 중요한가'를 판단하는 기준이 있습니다. 그런데 그 기준을 하나가 아니라 두 층으로 나누었습니다. 하나는 원칙, 다른 하나는 규칙입니다. 시스템을 만들기 전에 먼저 이 둘을 세웠습니다. 잘하나 원칙 https://jalhana.com/principle"
+description: "잘하나에는 '무엇이 중요한가'를 판단하는 기준이 있습니다. 그런데 그 기준을 하나가 아니라 두 층으로 나누었습니다. 하나는 원칙, 다른 하나는 규칙입니다. 시스템을 만들기 전에 먼저 이 둘을 세웠습니다."
+image: {"path": "https://jalhana.com/blog/images/principles/principles-section-02-illustration-08-129fb2fc020e.webp", "alt": "편집과 판정의 차이. 잘하나가 하는 것과 하지 않는 것.", "width": 1075, "height": 528}
 source_num: "002"
 ---
 ## 안 변할 것과 변할 수 있는 것
@@ -23,7 +25,7 @@ source_num: "002"
 
 이를테면 '1만 명의 편의'는 '30가구의 삶터'를 자동으로 누르지 못합니다. 이 원칙은 둘을 '1만 명 vs 30가구'라는 머릿수 싸움이 아니라, '편의 vs 생존'이라는 깊이의 문제로 바라보게 합니다. 물론 여기서도 어느 쪽이 옳은지는 판단하지 않습니다.
 
-![편집과 판정의 차이. 잘하나가 하는 것과 하지 않는 것.](https://jalhana.com/blog/images/principles/principles-section-02-illustration-08-129fb2fc020e.webp)
+![편집과 판정의 차이. 잘하나가 하는 것과 하지 않는 것.](https://jalhana.com/blog/images/principles/principles-section-02-illustration-08-129fb2fc020e.webp){: loading="lazy" decoding="async" width="1075" height="528"}
 
 그 다음 '규칙'입니다.
 
@@ -43,7 +45,7 @@ source_num: "002"
 
 그래서 둘 다 필요합니다. 다만 이 둘을 한 덩어리로 묶어두면 위험합니다. 점수 가중치 하나 바꾸려다 철학을 흔들게 되거든요. 엔진을 고칠 때마다 헌법을 고쳐선 안 되는 것처럼 '규칙은 계속 조정하되, 원칙은 그 자리에 둡니다.'
 
-![원문 추적에 관한 내용](https://jalhana.com/blog/images/principles/principles-section-02-illustration-18-f509a0c6c9c3.webp)
+![원문 추적에 관한 내용](https://jalhana.com/blog/images/principles/principles-section-02-illustration-18-f509a0c6c9c3.webp){: loading="lazy" decoding="async" width="1064" height="417"}
 
 ## 규칙이 변해도 원칙은 지키는 이유
 
@@ -53,7 +55,7 @@ source_num: "002"
 
 규칙만 조정해 사안을 다시 뽑아보고, 규모 가점을 미세조정하는 중입니다. 원칙은 건드리지 않았습니다(깊은 사안이 여전히 위에 남도록). 시뮬레이션으로 그 선을 넘지 않았는지도 함께 확인합니다. 무엇은 마음껏 바꿔도 되고 무엇은 절대 건드리면 안 되는지가, 이 작업을 거치며 점점 분명해지고 있습니다.
 
-![사안의 중요도에 관한 내용](https://jalhana.com/blog/images/principles/principles-section-03-illustration-23-ef47cf0097c0.webp)
+![사안의 중요도에 관한 내용](https://jalhana.com/blog/images/principles/principles-section-03-illustration-23-ef47cf0097c0.webp){: loading="lazy" decoding="async" width="1053" height="652"}
 
 ## 그런데 왜 '법'이라 안 부르나
 

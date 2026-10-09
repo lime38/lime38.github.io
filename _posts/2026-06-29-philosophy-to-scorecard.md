@@ -2,9 +2,11 @@
 layout: post
 title: "철학을 점수표로 내리기"
 date: 2026-06-29
+last_modified_at: 2026-09-17
 tags: ["기술"]
 canonical_url: https://jalhana.com/blog/philosophy-to-scorecard
-description: "회의록을 분석하다 보니 사안에 대한 글감이 넘쳐 흐릅니다. 이 글 그대로 최신순으로 보여주는 것도 가능하지만, 특정한 기준에 따라 무엇을 먼저 보여줄지 정하는 방법도 연구했습니다. 사안의 유형과 성격, 영향력, 얼마나 깊게 닿는지 같은 것을 수치로 만들 수 있지 않을까"
+description: "회의록을 분석하다 보니 사안에 대한 글감이 넘쳐 흐릅니다. 이 글 그대로 최신순으로 보여주는 것도 가능하지만, 특정한 기준에 따라 무엇을 먼저 보여줄지 정하는 방법도 연구했습니다."
+image: {"path": "https://jalhana.com/blog/images/philosophy-to-scorecard/philosophy-to-scorecard-section-02-illustration-08-6623af4db85b.webp", "alt": "사안의 무게라고 칭해진 6개의 축", "width": 896, "height": 558}
 source_num: "009"
 ---
 ## 철학을 점수화하기
@@ -24,7 +26,7 @@ source_num: "009"
 
 잘하나에는 '규모는 취약성을 자동으로 이기지 못한다'는 원칙이 있습니다. 사람이 많이 관련된 사안이라고 해서, 적은 사람에게 깊게 닿는 사안을 자동으로 밀어내서는 안 된다는 뜻입니다.
 
-![사안의 무게라고 칭해진 6개의 축](https://jalhana.com/blog/images/philosophy-to-scorecard/philosophy-to-scorecard-section-02-illustration-08-6623af4db85b.webp)
+![사안의 무게라고 칭해진 6개의 축](https://jalhana.com/blog/images/philosophy-to-scorecard/philosophy-to-scorecard-section-02-illustration-08-6623af4db85b.webp){: loading="lazy" decoding="async" width="896" height="558"}
 
 그 과정에서 나온 것이 여섯 개의 축입니다.
 
@@ -55,7 +57,7 @@ source_num: "009"
 
 [https://jalhana.com/geoje/issues/gonggong-sanhujoriwon](https://jalhana.com/geoje/issues/gonggong-sanhujoriwon)
 
-![거제시 잘하나 공공산후조리원 쟁점과 현주소, 핵심 요약](https://jalhana.com/blog/images/philosophy-to-scorecard/philosophy-to-scorecard-section-03-illustration-23-28d2ca388312.webp)
+![거제시 잘하나 공공산후조리원 쟁점과 현주소, 핵심 요약](https://jalhana.com/blog/images/philosophy-to-scorecard/philosophy-to-scorecard-section-03-illustration-23-28d2ca388312.webp){: loading="lazy" decoding="async" width="945" height="398"}
 
 대상 인원만 보면.. 도시 전체의 교통이나 편의시설보다 작을 수 있습니다. 그렇다고 그 이유만으로 덜 중요한 문제라고 말할 수 있을까요?
 
@@ -101,7 +103,7 @@ source_num: "009"
 덕분에
 하나의 총점 대신 '그 사안이 어떤 성격을 가진 문제인지 보여주는 좌표'에 오히려 가까워졌습니다.
 
-![개선 된 여섯 축으로 보기 - 생존관련성과 취약성이 매우 큰 사안](https://jalhana.com/blog/images/philosophy-to-scorecard/philosophy-to-scorecard-section-05-illustration-41-9f87b46d9935.webp)
+![개선 된 여섯 축으로 보기 - 생존관련성과 취약성이 매우 큰 사안](https://jalhana.com/blog/images/philosophy-to-scorecard/philosophy-to-scorecard-section-05-illustration-41-9f87b46d9935.webp){: loading="lazy" decoding="async" width="950" height="535"}
 
 그리고 오래 논의된 사안은 별도로 볼 수 있게 했습니다.
 

@@ -2,9 +2,11 @@
 layout: post
 title: "연결보다 어려운 버리기"
 date: 2026-06-27
+last_modified_at: 2026-09-10
 tags: ["기술"]
 canonical_url: https://jalhana.com/blog/hard-to-discard
-description: "파일럿으로 분석한 거제시의회에는 한 임기에 약 600개의 안건이 있습니다. 2018년부터 2026년까지는 두 임기로 1,206건. https://jalhana.com/geoje/ 거제시 잘하나 닷컴 우리 지역 결정을 한눈에! 거제시의회 회의록과 의안을 쉽게 정리합니다."
+description: "파일럿으로 분석한 거제시의회에는 한 임기에 약 600개의 안건이 있습니다. 2018년부터 2026년까지는 두 임기로 1,206건. 거제시 잘하나 닷컴 우리 지역 결정을 한눈에! 거제시의회 회의록과 의안을 쉽게 정리합니다."
+image: {"path": "https://jalhana.com/blog/images/hard-to-discard/hard-to-discard-section-01-illustration-03-a2a635b2170b.webp", "alt": "거제시 잘하나 메인페이지 - 1,206 의안의 추적", "width": 993, "height": 597}
 source_num: "007"
 ---
 ## 사안 연결하기
@@ -13,7 +15,7 @@ source_num: "007"
 
 2018년부터 2026년까지는 두 임기로 1,206건.
 
-![거제시 잘하나 메인페이지 - 1,206 의안의 추적](https://jalhana.com/blog/images/hard-to-discard/hard-to-discard-section-01-illustration-03-a2a635b2170b.webp)
+![거제시 잘하나 메인페이지 - 1,206 의안의 추적](https://jalhana.com/blog/images/hard-to-discard/hard-to-discard-section-01-illustration-03-a2a635b2170b.webp){: loading="lazy" decoding="async" width="993" height="597"}
 
 [https://jalhana.com/geoje/](https://jalhana.com/geoje/)
 
@@ -42,7 +44,7 @@ source_num: "007"
 '옥포상권'
 '빛의 거리'
 
-![거제 빛의거리 - 고현, 옥포 상권을 살리기 위한 행사](https://jalhana.com/blog/images/hard-to-discard/hard-to-discard-section-02-illustration-15-7c28847460dc.webp)
+![거제 빛의거리 - 고현, 옥포 상권을 살리기 위한 행사](https://jalhana.com/blog/images/hard-to-discard/hard-to-discard-section-02-illustration-15-7c28847460dc.webp){: loading="lazy" decoding="async" width="1074" height="403"}
 
 거제 옥포의 상권을 살리려는 움직임으로
 처음엔 두 표현이 같은 사안을 가리키는 줄 알았습니다.
@@ -61,7 +63,7 @@ source_num: "007"
 
 분명 이것은 무언가 잘못됐다는 신호였습니다.
 
-![거제 빛의거리 주요 경과 - 고현, 옥포, 장승포, 아주 등 여러 장소가 함께 나온다](https://jalhana.com/blog/images/hard-to-discard/hard-to-discard-section-02-illustration-22-7cdbacd043bb.webp)
+![거제 빛의거리 주요 경과 - 고현, 옥포, 장승포, 아주 등 여러 장소가 함께 나온다](https://jalhana.com/blog/images/hard-to-discard/hard-to-discard-section-02-illustration-22-7cdbacd043bb.webp){: loading="lazy" decoding="async" width="1103" height="273"}
 
 ## 단순히 찾기 버튼으로는 안 된다
 
@@ -91,7 +93,7 @@ source_num: "007"
 
 단어가 아니라 의미를 읽어야 하는 때,
 
-![거제시 잘하나 '옥포 공원' 검색 결과 - 옥포의 서로 다른 공원 결과가 나온다.](https://jalhana.com/blog/images/hard-to-discard/hard-to-discard-section-04-illustration-35-9b7372348148.webp)
+![거제시 잘하나 '옥포 공원' 검색 결과 - 옥포의 서로 다른 공원 결과가 나온다.](https://jalhana.com/blog/images/hard-to-discard/hard-to-discard-section-04-illustration-35-9b7372348148.webp){: loading="lazy" decoding="async" width="1179" height="793"}
 
 '이 발언과 저 발언이 같은 이야기인가?'는 당장 해결하지 못합니다.
 

@@ -2,9 +2,11 @@
 layout: post
 title: "만년 적자 버스"
 date: 2026-06-30
+last_modified_at: 2026-06-30
 tags: ["사회"]
 canonical_url: https://jalhana.com/blog/deficit-bus
-description: "거제시의회 회의록에는 매년 같은 항목이 올라옵니다. 벽지노선 손실보상금 약 3억 원. 저상버스 손실보상금 약 2억 8천만 원. 이건 시가 버스 회사의 적자를 메워 주는 돈입니다. 시는 왜 적자를 메울까요? 쉽게 말해 그 노선들이 돈을 못 벌기 때문입니다. 사람이 적게 "
+description: "거제시의회 회의록에는 매년 같은 항목이 올라옵니다. 벽지노선 손실보상금 약 3억 원. 저상버스 손실보상금 약 2억 8천만 원. 이건 시가 버스 회사의 적자를 메워 주는 돈입니다. 시는 왜 적자를 메울까요? 쉽게 말해 그 노선들이 돈을 못 벌기 때문입니다."
+image: {"path": "https://jalhana.com/blog/images/deficit-bus/byeokji-route-issue-overview.webp", "alt": "거제시 잘하나 벽지노선 버스 사안 - 도입부", "width": 931, "height": 662}
 source_num: "010"
 ---
 ## 거제의 적자 버스
@@ -17,7 +19,7 @@ source_num: "010"
 
 [거제 벽지노선 버스 사안](https://jalhana.com/geoje/issues/byeokji-noseon)
 
-![거제시 잘하나 벽지노선 버스 사안 - 도입부](https://jalhana.com/blog/images/deficit-bus/byeokji-route-issue-overview.webp)
+![거제시 잘하나 벽지노선 버스 사안 - 도입부](https://jalhana.com/blog/images/deficit-bus/byeokji-route-issue-overview.webp){: loading="lazy" decoding="async" width="931" height="662"}
 
 ## 이용객이 적다는 말의 두 가지 뜻
 
@@ -29,7 +31,7 @@ source_num: "010"
 
 이용객 수만 세면, 14대가 모자라다는 호소 자체도 너무 작아 보이죠.
 
-![벽지노선에 대한 교통행정과장의 답변 - 실제 정치는 디테일하다](https://jalhana.com/blog/images/deficit-bus/byeokji-route-minutes-exchange.webp)
+![벽지노선에 대한 교통행정과장의 답변 - 실제 정치는 디테일하다](https://jalhana.com/blog/images/deficit-bus/byeokji-route-minutes-exchange.webp){: loading="lazy" decoding="async" width="1013" height="244"}
 
 
 ## 효율은 조용한 다수결
@@ -46,7 +48,7 @@ source_num: "010"
 
 저는 이런 모습을 일종의 '조용한 다수결'처럼 느꼈습니다.
 
-![이 사안의 중요도에서 말하는 벽지노선의 사안의 중요성과 영향을 받는 대상](https://jalhana.com/blog/images/deficit-bus/byeokji-route-importance.webp)
+![이 사안의 중요도에서 말하는 벽지노선의 사안의 중요성과 영향을 받는 대상](https://jalhana.com/blog/images/deficit-bus/byeokji-route-importance.webp){: loading="lazy" decoding="async" width="956" height="370"}
 
 ## 공공 서비스의 적자
 
@@ -54,7 +56,7 @@ source_num: "010"
 
 이처럼 거제가 매년 손실보상금을 내는 것은, 적은 이용객 수만으로 서비스를 없애지 않는 선택이기도 합니다. 물론 의회 회의록에는 '큰 버스를 넣지 말고 마을버스 같은 작은 것을 운행하자'는 제안도 나옵니다. 수요가 적은 마을에 맞는 작은 발을 따로 마련하자는 거죠.
 
-![핵심이 되는 논란거리에서 알 수 있는 서로의 주장](https://jalhana.com/blog/images/deficit-bus/byeokji-route-contention.webp)
+![핵심이 되는 논란거리에서 알 수 있는 서로의 주장](https://jalhana.com/blog/images/deficit-bus/byeokji-route-contention.webp){: loading="lazy" decoding="async" width="993" height="736"}
 
 
 ## 잘하나가 이 사안을 다루는 법

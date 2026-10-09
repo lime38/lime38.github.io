@@ -1,0 +1,12 @@
+---
+layout: default
+---
+<div class="home">
+  <img class="home-hero-img" src="{{ '/assets/jalhana-512.png' | relative_url }}" alt="잘하나" width="512" height="512" loading="eager" decoding="async">
+  {%- if page.title %}
+  <h1 class="post-title">{{ page.title | escape }}</h1>
+  {%- endif %}
+  <div class="post-content">
+    {{ content }}
+  </div>
+</div>

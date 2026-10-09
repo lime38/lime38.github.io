@@ -2,6 +2,7 @@
 layout: page
 title: 소개
 permalink: /about/
+description: "잘하나가 어떤 서비스인지, 편집은 하되 판정은 하지 않는다는 다섯 가지 원칙, 그리고 이 거울 사이트의 성격을 소개합니다."
 ---
 
 ## 잘하나는
@@ -16,7 +17,7 @@ permalink: /about/
 4. **충돌은 결론이 아니라 쟁점으로 보여줍니다.** 가치가 부딪히는 사안에는 하나의 답 대신 서로 다른 주장과 근거를 나란히 놓습니다.
 5. **기록의 노출이 아니라 영향을 기준으로 편집합니다.** 기록의 분량이나 빈도가 아니라, 덜 보이는 기록도 영향이 크면 보이게 합니다.
 
-원칙의 전문은 [잘하나의 원칙](https://jalhana.com/principles), 원칙이 실제 절차로 옮겨지는 방식은 [잘하나 규칙 체계](https://jalhana.com/rules)에 공개되어 있습니다. 잘하나의 모든 문장은 회의록 원문으로 되짚을 수 있어야 하며, 되짚을 수 없는 내용은 싣지 않습니다. AI는 실수할 수 있으므로 [자주 묻는 질문](https://jalhana.com/faq)에서 제보 방법을 확인할 수 있습니다.
+원칙의 전문은 [잘하나의 원칙](https://jalhana.com/principles), 원칙이 실제 절차로 옮겨지는 방식은 [잘하나 규칙 체계](https://jalhana.com/rules)에 공개되어 있습니다. 잘하나의 모든 문장은 회의록 원문으로 되짚을 수 있어야 하며, 되짚을 수 없는 내용은 싣지 않습니다.
 
 ## 이 사이트는
 
@@ -25,6 +26,7 @@ permalink: /about/
 ## 링크
 
 - [잘하나 홈 — 우리 지역 결정을 한눈에](https://jalhana.com/)
-- [지방의회 공개 리소스](https://jalhana.com/resources/local-councils/): 지방의회 공식 홈페이지, 회의록, 의안, 의원 안내로 가는 길
+- [국회 잘하나](https://jalhana.com/assembly/)
+- [지방의회 공개 리소스](https://jalhana.com/resources/local-councils/)
 - [GitHub 공개 저장소 local-council-public-records](https://github.com/lime38/local-council-public-records)
 - [행감팩 안내](https://jalhana.com/packs/)

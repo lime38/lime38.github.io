@@ -2,9 +2,11 @@
 layout: post
 title: "옆 도시와 견주어 보기"
 date: 2026-07-02
+last_modified_at: 2026-07-02
 tags: ["사회"]
 canonical_url: https://jalhana.com/blog/compare-with-neighbors
-description: "거제시의회 8년 회의록에서, 하청노동 이야기가 끊임없이 등장합니다. 한 의원은 5분 발언 때마다 조선소 하청노동자의 임금체불과 무급노동을 짚기도 하거든요. 그런데 이 수치가 얼마나 많은 건지 감이 오시나요? 거제만 봐서는 알 수 없습니다. 옆 도시와 견주기 전까지는요 "
+description: "거제시의회 8년 회의록에서, 하청노동 이야기가 끊임없이 등장합니다. 한 의원은 5분 발언 때마다 조선소 하청노동자의 임금체불과 무급노동을 짚기도 하거든요. 그런데 이 수치가 얼마나 많은 건지 감이 오시나요? 거제만 봐서는 알 수 없습니다."
+image: {"path": "https://jalhana.com/blog/images/compare-with-neighbors/compare-with-neighbors-section-02-illustration-09-b837840d3579.webp", "alt": "거제시 잘하나 사안 중 '하청' 검색 결과", "width": 1219, "height": 915}
 source_num: "012"
 ---
 ## 거제는 '하청의 도시'다
@@ -31,7 +33,7 @@ source_num: "012"
 
 **거제가 김해의 60배**나 되네요.
 
-![거제시 잘하나 사안 중 '하청' 검색 결과](https://jalhana.com/blog/images/compare-with-neighbors/compare-with-neighbors-section-02-illustration-09-b837840d3579.webp)
+![거제시 잘하나 사안 중 '하청' 검색 결과](https://jalhana.com/blog/images/compare-with-neighbors/compare-with-neighbors-section-02-illustration-09-b837840d3579.webp){: loading="lazy" decoding="async" width="1219" height="915"}
 
 외국인 노동자도, 고용위기 이슈도,, 거제가 가장 높았습니다.
 
@@ -45,7 +47,7 @@ source_num: "012"
 
 놀랍게도 '**공공의료**'였습니다.
 
-![거제시 잘하나 '공공의료' 검색 결과](https://jalhana.com/blog/images/compare-with-neighbors/compare-with-neighbors-section-02-illustration-15-3e54111425d8.webp)
+![거제시 잘하나 '공공의료' 검색 결과](https://jalhana.com/blog/images/compare-with-neighbors/compare-with-neighbors-section-02-illustration-15-3e54111425d8.webp){: loading="lazy" decoding="async" width="1276" height="375"}
 
 [거제시 잘하나 - 공공의료 사안](https://jalhana.com/geoje/issues/gonggong-uiryo)
 
@@ -75,7 +77,7 @@ source_num: "012"
 
 우리가 동일 사안을 수평 방향으로 보는 이유가 여기에 있습니다.
 
-![거제시 잘하나 '공공의료' 사안 - 여섯 축으로 보기](https://jalhana.com/blog/images/compare-with-neighbors/compare-with-neighbors-section-03-illustration-28-ba7bb8dd53ac.webp)
+![거제시 잘하나 '공공의료' 사안 - 여섯 축으로 보기](https://jalhana.com/blog/images/compare-with-neighbors/compare-with-neighbors-section-03-illustration-28-ba7bb8dd53ac.webp){: loading="lazy" decoding="async" width="958" height="555"}
 
 이는..
 "남들은 다 하는데 우리만 왜 안 하냐?" 같은 떼쓰기가 아니고,
@@ -90,7 +92,7 @@ source_num: "012"
 비교를 통해 비로소 보이는 '사각지대'를 드러내기 위해서입니다.
 "이렇게 필요한데 왜 안 보이지?"를 비추려고요.
 
-![잘하나의 다층 비교 모델](https://jalhana.com/blog/images/compare-with-neighbors/compare-with-neighbors-section-04-illustration-33-0a21195a6389.webp)
+![잘하나의 다층 비교 모델](https://jalhana.com/blog/images/compare-with-neighbors/compare-with-neighbors-section-04-illustration-33-0a21195a6389.webp){: loading="lazy" decoding="async" width="939" height="811"}
 
 여기서도 우리는
 "거제가 못하고 있다"고 말하지 않습니다.
