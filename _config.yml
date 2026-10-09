@@ -1,5 +1,6 @@
 # 잘하나 기록 — GitHub Pages(Jekyll) 거울 사이트. 화이트리스트 플러그인만 사용한다.
 title: 잘하나 기록
+tagline: 지방의회 기록을 편집하는 과정
 description: 잘하나가 지방의회 기록을 읽고 편집하는 과정을 적은 글 모음으로, 글의 원문(정본)은 jalhana.com/blog에 있습니다.
 url: https://lime38.github.io
 baseurl: ""
