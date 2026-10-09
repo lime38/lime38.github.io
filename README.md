@@ -37,7 +37,7 @@
 ```
 _config.yml            minima, jekyll-sitemap / jekyll-seo-tag / jekyll-feed, 글 주소 /blog/:title/
 index.md blog.md about.md   홈 · 블로그 · 소개
-_includes/             header.html(한국어 메뉴) · footer.html(텍스트 링크) · post-list.html
+_includes/             header.html(한국어 메뉴) · footer.html(채널 아이콘 행) · post-list.html · icons/*.svg
 _layouts/post.html     글 머리에 정본 안내
 _data/links.json       푸터 채널 목록(SNS 등)
 _posts/                도구가 만든 글(손대지 않음)
@@ -51,8 +51,10 @@ robots.txt             전체 허용 + sitemap
 
 ## 알아 둘 점
 
-- **푸터**: 사이트 한 줄 + 채널 한 줄(Threads · Instagram · X · LinkedIn · 브런치 · Velog · GitHub · jalhana.com) + 안내문입니다.
-  채널은 `_data/links.json` 의 `channels` 에서 오며 `url` 이 빈 항목은 건너뜁니다. 개인 채널에는 `rel="me noopener"` 를 붙였습니다.
+- **푸터**: 사이트 한 줄 + 채널 한 줄 + 안내문입니다. 채널은 `_data/links.json` 의 `channels`(순서 = 표시 순서)에서 오며,
+  `icon` 이 있으면 `_includes/icons/<icon>.svg` 인라인 SVG 아이콘 버튼(44px 터치 영역, `currentColor`, `aria-label`·`title`·숨김 텍스트로 라벨 유지),
+  없으면 텍스트 링크(jalhana.com)로 그립니다. `url` 이 빈 항목은 건너뜁니다. 개인 채널에는 `rel="me noopener"` 를 붙였습니다.
+  아이콘은 [Simple Icons](https://simpleicons.org/) 13.0.0(CC0) 경로이고 브런치만 직접 그린 모노그램입니다. 외부 요청·아이콘 폰트·CDN 은 쓰지 않습니다.
   같은 프로필 주소가 `_config.yml` 의 `social.links` 에도 있어 jekyll-seo-tag 가 홈 JSON-LD 의 sameAs 로 냅니다(두 곳을 함께 고칩니다).
 - **행감팩 지역 페이지**(`/status/2026-haenggam/<지역>/`)는 현재 Cloudflare Access 뒤라 공개되지 않아(302 로그인) 어디에도 링크하지 않았습니다.
 - jalhana.com 의 robots.txt 는 일부 AI 크롤러를 막고 있지만, 이 사이트의 robots.txt 는 요청대로 전체 허용입니다.

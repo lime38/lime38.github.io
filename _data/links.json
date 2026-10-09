@@ -1,13 +1,13 @@
 {
-  "_note": "푸터가 쓰는 채널 목록(표시 순서 = 배열 순서). url 이 빈 항목은 푸터가 건너뛴다. 2026-10-09 curl 확인: Threads·Instagram·X·GitHub·jalhana.com 200, 브런치 200(간헐적으로 로그인 302), Velog 302 후 200(/@jalhana -> /@jalhana/posts), LinkedIn 301 후 999(봇 차단, 사용자 제공 주소를 그대로 둠). 개인 채널은 rel=me.",
+  "_note": "푸터 채널 목록(표시 순서 = 배열 순서). icon 이 있으면 _includes/icons/<icon>.svg 아이콘 버튼으로, 없으면 텍스트 링크로 그린다. url 이 빈 항목은 건너뛴다. 아이콘은 Simple Icons 13.0.0(CC0) 경로이고 brunch 만 직접 그린 모노그램이다. 2026-10-09 curl 확인: Threads·Instagram·X·GitHub·jalhana.com 200, 브런치 200(간헐적으로 로그인 302), Velog 302 후 200(/@jalhana -> /@jalhana/posts), LinkedIn 301 후 999(봇 차단, 사용자 제공 주소를 그대로 둠). 개인 채널은 rel=me.",
   "channels": [
-    { "name": "Threads",   "label": "Threads @lime.jung",         "url": "https://www.threads.com/@lime.jung",            "rel": "me noopener" },
-    { "name": "Instagram", "label": "Instagram @jalhana_official", "url": "https://www.instagram.com/jalhana_official/",   "rel": "me noopener" },
-    { "name": "X",         "label": "X @jalhana12",               "url": "https://x.com/jalhana12",                       "rel": "me noopener" },
-    { "name": "LinkedIn",  "label": "LinkedIn",                   "url": "https://www.linkedin.com/in/lime38/",           "rel": "me noopener" },
-    { "name": "Brunch",    "label": "브런치 @jalhana12",           "url": "https://brunch.co.kr/@jalhana12",               "rel": "me noopener" },
-    { "name": "Velog",     "label": "Velog @jalhana",             "url": "https://velog.io/@jalhana",                     "rel": "me noopener" },
-    { "name": "GitHub",    "label": "GitHub @lime38",             "url": "https://github.com/lime38",                     "rel": "me noopener" },
-    { "name": "jalhana",   "label": "jalhana.com",                "url": "https://jalhana.com/",                          "rel": "" }
+    { "name": "Threads",   "icon": "threads",   "label": "Threads @lime.jung",         "url": "https://www.threads.com/@lime.jung",            "rel": "me noopener" },
+    { "name": "Instagram", "icon": "instagram", "label": "Instagram @jalhana_official", "url": "https://www.instagram.com/jalhana_official/",   "rel": "me noopener" },
+    { "name": "X",         "icon": "x",         "label": "X @jalhana12",               "url": "https://x.com/jalhana12",                       "rel": "me noopener" },
+    { "name": "LinkedIn",  "icon": "linkedin",  "label": "LinkedIn",                   "url": "https://www.linkedin.com/in/lime38/",           "rel": "me noopener" },
+    { "name": "Brunch",    "icon": "brunch",    "label": "브런치 @jalhana12",           "url": "https://brunch.co.kr/@jalhana12",               "rel": "me noopener" },
+    { "name": "Velog",     "icon": "velog",     "label": "Velog @jalhana",             "url": "https://velog.io/@jalhana",                     "rel": "me noopener" },
+    { "name": "GitHub",    "icon": "github",    "label": "GitHub @lime38",             "url": "https://github.com/lime38",                     "rel": "me noopener" },
+    { "name": "jalhana",   "icon": "",          "label": "jalhana.com",                "url": "https://jalhana.com/",                          "rel": "" }
   ]
 }

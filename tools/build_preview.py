@@ -69,8 +69,12 @@ ul,ol{margin:0 0 1.1em;padding-left:1.35em}li{margin-bottom:.3em}
 .btn{display:inline-block;font:inherit;color:var(--brand);background:transparent;border:1px solid var(--cardline);border-radius:8px;padding:6px 12px;cursor:pointer}
 .site-footer{border-top:1px solid var(--line);padding:28px 0 40px;font-size:15px}
 .footer-heading{font-weight:700;margin:0 0 10px}
-.footer-channels{display:flex;flex-wrap:wrap;align-items:center;gap:6px 18px;margin:0 0 10px}
+.footer-channels{display:flex;flex-wrap:wrap;align-items:center;gap:6px 14px;margin:0 0 10px}
 .footer-title{font-weight:700;font-size:14px}
+.footer-icon,.footer-icon:visited{display:inline-flex;align-items:center;justify-content:center;width:44px;height:44px;border-radius:50%;color:var(--fg);opacity:.85}
+.footer-icon:hover{color:var(--brand);background:var(--card);opacity:1;text-decoration:none}
+.footer-icon svg{width:24px;height:24px;display:block}
+.visually-hidden{position:absolute;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap;border:0}
 .footer-note{margin:6px 0 0;font-size:13px;color:var(--mut)}
 .hl a[href^="https://jalhana.com"],.hl a[href^="https://github.com/lime38"]{background:var(--hl);border-radius:3px;box-shadow:0 0 0 2px var(--hl)}
 @media (min-width:700px){body{font-size:17px}.wrap{padding:0 30px}}
@@ -219,13 +223,21 @@ def render_post(p: dict) -> str:
 
 
 def render_footer(links: dict, title: str) -> str:
-    """_includes/footer.html 과 같은 모양: 사이트 한 줄 + 채널 한 줄(url 이 빈 항목은 건너뜀) + 안내문."""
+    """_includes/footer.html 과 같은 모양: 사이트 한 줄 + 채널 한 줄(아이콘 버튼 + 텍스트 링크) + 안내문.
+    url 이 빈 항목은 건너뛰고, 아이콘은 _includes/icons/<icon>.svg 를 그대로 인라인한다."""
     chans = ""
     for c in links["channels"]:
         if not c.get("url"):
             continue
         rel = f' rel="{html.escape(c["rel"])}"' if c.get("rel") else ""
-        chans += f'<a href="{html.escape(c["url"])}"{rel}>{html.escape(c["label"])}</a>'
+        label = html.escape(c["label"])
+        url = html.escape(c["url"])
+        if c.get("icon"):
+            svg = (REPO / "_includes" / "icons" / f"{c['icon']}.svg").read_text(encoding="utf-8").strip()
+            chans += (f'<a class="footer-icon" href="{url}"{rel} aria-label="{label}" title="{label}">'
+                      f'{svg}<span class="visually-hidden">{label}</span></a>')
+        else:
+            chans += f'<a class="footer-text" href="{url}"{rel}>{label}</a>'
     return ('<footer class="site-footer"><div class="wrap">'
             f'<p class="footer-heading">{html.escape(title)} — 잘하나 블로그의 글을 옮겨 실은 사이트입니다</p>'
             f'<nav class="footer-channels" aria-label="채널"><span class="footer-title">채널</span>{chans}</nav>'

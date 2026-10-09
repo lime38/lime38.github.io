@@ -4,9 +4,13 @@
     <p class="footer-heading">{{ site.title | escape }} — 잘하나 블로그의 글을 옮겨 실은 사이트입니다</p>
     <nav class="footer-channels" aria-label="채널">
       <span class="footer-title">채널</span>
-      {%- for c in site.data.links.channels %}
-      {%- if c.url and c.url != "" %}
-      <a href="{{ c.url }}"{% if c.rel and c.rel != "" %} rel="{{ c.rel }}"{% endif %}>{{ c.label }}</a>
+      {%- for ch in site.data.links.channels %}
+      {%- if ch.url and ch.url != "" %}
+      {%- if ch.icon and ch.icon != "" %}
+      <a class="footer-icon" href="{{ ch.url }}"{% if ch.rel and ch.rel != "" %} rel="{{ ch.rel }}"{% endif %} aria-label="{{ ch.label | escape }}" title="{{ ch.label | escape }}">{% include icons/{{ ch.icon }}.svg %}<span class="visually-hidden">{{ ch.label | escape }}</span></a>
+      {%- else %}
+      <a class="footer-text" href="{{ ch.url }}"{% if ch.rel and ch.rel != "" %} rel="{{ ch.rel }}"{% endif %}>{{ ch.label | escape }}</a>
+      {%- endif %}
       {%- endif %}
       {%- endfor %}
     </nav>
