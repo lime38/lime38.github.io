@@ -18,8 +18,6 @@ twitter:
   card: summary_large_image
 
 # 검색엔진 소유 확인 — 값이 있을 때만 head 에 meta 가 나온다(_includes/head-custom.html).
-google_site_verification: "XilFOhUF8SeFzf5YCJ9qJ5AMqmsaElu2fVjnc4BQqnM"
-bing_site_verification: ""
 
 # jekyll-seo-tag: 홈 JSON-LD 의 sameAs (프로필 주소). 푸터 채널(_data/links.json)과 같은 목록.
 social:
@@ -79,3 +77,6 @@ exclude:
   - tools
   - preview
   - .gitignore
+# 검색엔진 소유 확인(jekyll-seo-tag가 head에 한 번만 출력) — Bing은 bing: "<코드>" 줄을 더하면 된다
+webmaster_verifications:
+  google: "XilFOhUF8SeFzf5YCJ9qJ5AMqmsaElu2fVjnc4BQqnM"
