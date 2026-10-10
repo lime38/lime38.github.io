@@ -64,8 +64,8 @@ p{margin:0 0 1em}
 ul,ol{margin:0 0 1.1em;padding-left:1.35em}li{margin-bottom:.3em}
 .post-meta{color:var(--mut);font-size:14px;margin:0 0 .6em}
 .post-list{list-style:none;margin:0 0 1.2em;padding:0}
-.post-list li{margin:0 0 1.15em}
-.post-list h3{margin:.05em 0 0;font-size:1.12rem;font-weight:600}
+.post-list li{margin:0 0 20px}
+.post-list h3{margin:2px 0 0;font-size:16px;font-weight:600}
 .post-list .soft{color:var(--fg)}
 .mirror-note{margin:.9em 0 1.6em;padding:.7em .9em;font-size:14px;line-height:1.6;color:var(--mut);background:var(--card);border-left:4px solid var(--brand);border-radius:0 6px 6px 0}
 .post-content h1{font-size:1.45rem}
