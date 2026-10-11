@@ -29,4 +29,4 @@ description: "잘하나가 어떤 서비스인지, 편집은 하되 판정은 �
 - [국회 잘하나](https://jalhana.com/assembly/)
 - [지방의회 공개 리소스](https://jalhana.com/resources/local-councils/)
 - [GitHub 공개 저장소 local-council-public-records](https://github.com/lime38/local-council-public-records)
-- [행감팩 안내](https://jalhana.com/packs/)
+- [행감팩 안내](https://jalhana.com/packs/haenggam/)

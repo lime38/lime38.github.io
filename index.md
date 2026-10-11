@@ -20,4 +20,4 @@ description: "잘하나가 지방의회 회의록과 의안을 사안 단위로 
 - [잘하나의 원칙](https://jalhana.com/principles)과 [잘하나 규칙 체계](https://jalhana.com/rules): 무엇을 먼저 보여주는지, 그 기준을 공개합니다.
 - [지방의회 공개 리소스](https://jalhana.com/resources/local-councils/): 지방의회 공식 홈페이지, 회의록, 의안, 의원 안내로 가는 길을 모았습니다.
 - [GitHub 공개 저장소 local-council-public-records](https://github.com/lime38/local-council-public-records): 공개 리소스의 CSV·JSON 자료입니다.
-- [행감팩 안내](https://jalhana.com/packs/): 행정사무감사 준비를 돕는 안내서입니다.
+- [행감팩 안내](https://jalhana.com/packs/haenggam/): 행정사무감사 준비를 돕는 안내서입니다.
