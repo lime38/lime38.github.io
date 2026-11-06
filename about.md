@@ -23,6 +23,10 @@ description: "잘하나가 어떤 서비스인지, 편집은 하되 판정은 �
 
 잘하나 기록은 [잘하나 블로그](https://jalhana.com/blog/)의 글을 옮겨 싣는 거울 사이트입니다. 글을 쓰고 고치는 곳은 잘하나 블로그 한 곳이며, 이곳의 글은 원문을 그대로 옮긴 것입니다. 검색 엔진에는 각 글의 정본 주소(canonical)를 알려 같은 글이 중복으로 잡히지 않게 했습니다.
 
+## 소개된 곳
+
+- HackerNoon · 2026-11-06 · 영문 기고 — [What I Learned Mapping Public Record Links Across 56 Korean Local Councils](https://hackernoon.com/what-i-learned-mapping-public-record-links-across-56-korean-local-councils)
+
 ## 링크
 
 - [잘하나 홈 — 우리 지역 결정을 한눈에](https://jalhana.com/)
