@@ -143,27 +143,28 @@ source_num: "014"
 그렇게 다시 끌어낸 사안은 다음과 같습니다.
 
 [정신건강복지센터](https://jalhana.com/geoje/issues/mental-health-center)
+
 **-**  자살 예방의 다른 이름. 보건소 한구석의 사업으로 묶여 있던 마음 돌봄의 기록.
-
 [고독사 예방](https://jalhana.com/geoje/issues/lonely-death-prevention)
+
 **-**  혼자 맞는 죽음. 노인만이 아니라 중년 남성과 1인 가구로 넓어지고 있는 문제.
-
 [학교 밖 청소년](https://jalhana.com/geoje/issues/school-out-youth)
+
 **-**  거제에 약 200명. 학교라는 그물 밖에 있어 통계에서도 쉽게 빠지는 아이들.
-
 [청소년상담복지센터](https://jalhana.com/geoje/issues/youth-counsel-center)
+
 **-**  위기에 놓인 청소년이 처음으로 손을 내밀 수 있는 문.
+[청소년 노동인권 ](https://jalhana.com/geoje/issues/youth-labor-rights)
 
-[청소년 노동인권](https://jalhana.com/geoje/issues/youth-labor-rights)
 **-**  아르바이트하는 청소년. 노동자로도, 청소년으로도 온전히 보이지 않는 사람들.
-
 [어촌의료서비스](https://jalhana.com/geoje/issues/fishing-medical)
+
 **-**  병원이 먼 섬, 어촌 주민에게 일상적인 진료를 이어 주는 일.
-
 [해녀](https://jalhana.com/geoje/issues/haenyeo-fishery)
-**-**  산소통 없이 바다에 들어가는 고령의 여성 노동자들.
 
+**-**  산소통 없이 바다에 들어가는 고령의 여성 노동자들.
 [육아종합지원센터](https://jalhana.com/geoje/issues/childcare-center)
+
 **-**  처음 아이를 키우는 부모가 막막할 때 기댈 수 있는 곳.
 
 여덟 사안 모두

@@ -4,10 +4,11 @@ title: "블로그 — 2쪽"
 description: "잘하나 블로그 글 목록 2쪽입니다. 글의 정본은 jalhana.com/blog에 있습니다."
 permalink: /blog/page/2/
 page_num: 2
-total_pages: 2
+total_pages: 3
 per_page: 10
 offset: 10
 prev_url: /blog/
+next_url: /blog/page/3/
 generated_by: export_from_dongheon
 ---
 

@@ -226,6 +226,56 @@
         "text": "잘하나 규칙 체계 — 사안의 발견부터 제목·진척도까지 편집 기준",
         "url": "https://jalhana.com/rules"
       }
+    ],
+    "one-issue-to-the-end": [
+      {
+        "text": "잘하나 규칙 체계 — 사안의 발견부터 제목·진척도까지 편집 기준",
+        "url": "https://jalhana.com/rules"
+      },
+      {
+        "text": "주제별 보기 — 전국 지방의회 사안",
+        "url": "https://jalhana.com/topics"
+      }
+    ],
+    "verification-has-revisions": [
+      {
+        "text": "잘하나 규칙 체계 — 사안의 발견부터 제목·진척도까지 편집 기준",
+        "url": "https://jalhana.com/rules"
+      },
+      {
+        "text": "자주 묻는 질문 — 이용·편집 기준·저작권",
+        "url": "https://jalhana.com/faq"
+      }
+    ],
+    "to-the-next-meeting": [
+      {
+        "text": "약속의 행방 — 전국 집행부 약속 기록",
+        "url": "https://jalhana.com/promises"
+      },
+      {
+        "text": "주제별 보기 — 전국 지방의회 사안",
+        "url": "https://jalhana.com/topics"
+      }
+    ],
+    "after-please-wait": [
+      {
+        "text": "약속의 행방 — 전국 집행부 약속 기록",
+        "url": "https://jalhana.com/promises"
+      },
+      {
+        "text": "행감팩 안내 — 행정사무감사 준비를 돕는 안내서",
+        "url": "https://jalhana.com/packs/haenggam/"
+      }
+    ],
+    "sixteen-shapes-after-the-answer": [
+      {
+        "text": "약속의 행방 — 전국 집행부 약속 기록",
+        "url": "https://jalhana.com/promises"
+      },
+      {
+        "text": "행감팩 안내 — 행정사무감사 준비를 돕는 안내서",
+        "url": "https://jalhana.com/packs/haenggam/"
+      }
     ]
   }
 }

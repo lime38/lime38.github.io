@@ -1,5 +1,9 @@
 {
  "og": {
+  "after-please-wait": {
+   "alt": "강원도 잘하나 - 육아기본수당 사안 도입부",
+   "image": "https://jalhana.com/blog/images/after-please-wait/after-please-wait-section-02-illustration-11-06ff7fccc621.webp"
+  },
   "city-vs-provincial-council": {
    "alt": "거제시 잘하나 - 거가대교 사안",
    "image": "https://jalhana.com/blog/images/city-vs-provincial-council/city-vs-provincial-council-section-01-illustration-06-53283e53badf.webp"
@@ -32,6 +36,10 @@
    "alt": "거제시 잘하나 주제별 보기 : 아동 보육",
    "image": "https://jalhana.com/blog/images/not-someone-elses-problem/not-someone-elses-problem-section-01-illustration-09-86afb2560b90.webp"
   },
+  "one-issue-to-the-end": {
+   "alt": "잘하나 규칙 - 사안의 발견",
+   "image": "https://jalhana.com/blog/images/one-issue-to-the-end/one-issue-to-the-end-section-01-illustration-04-dd155b91f457.webp"
+  },
   "philosophy-to-scorecard": {
    "alt": "사안의 무게라고 칭해진 6개의 축",
    "image": "https://jalhana.com/blog/images/philosophy-to-scorecard/philosophy-to-scorecard-section-02-illustration-08-6623af4db85b.webp"
@@ -48,6 +56,14 @@
    "alt": "잘하나의 사안 추적 - 진척도 모델",
    "image": "https://jalhana.com/blog/images/reading-minutes/reading-minutes-section-01-illustration-02-b4baa4ee2ef1.webp"
   },
+  "sixteen-shapes-after-the-answer": {
+   "alt": "사례 위주의 지난 두 편의 글",
+   "image": "https://jalhana.com/blog/images/sixteen-shapes-after-the-answer/sixteen-shapes-after-the-answer-section-02-illustration-09-8fa36be16931.webp"
+  },
+  "to-the-next-meeting": {
+   "alt": "잘하나 소개 - 약속의 행방 '검토하겠습니다 를끝까지 따라갑니다' 부분",
+   "image": "https://jalhana.com/blog/images/to-the-next-meeting/to-the-next-meeting-section-01-illustration-04-96b48c78be52.webp"
+  },
   "trust-ai-summary": {
    "alt": "원문 링크 - 발언에는 원문 근거가 붙어 있습니다",
    "image": "https://jalhana.com/blog/images/trust-ai-summary/trust-ai-summary-section-01-illustration-05-b9bfca4a52bf.webp"
@@ -55,6 +71,10 @@
   "vanished-committee": {
    "alt": "2018년 산업건설위원회 회의록 - 흥남철수기념공원 사안",
    "image": "https://jalhana.com/blog/images/vanished-committee/vanished-committee-section-01-illustration-04-3f5629a30e22.webp"
+  },
+  "verification-has-revisions": {
+   "alt": "검증 단계(rev)는 CEPT에서 P단계",
+   "image": "https://jalhana.com/blog/images/verification-has-revisions/verification-has-revisions-section-01-illustration-04-ff40dbc58f50.webp"
   },
   "where-real-politics": {
    "alt": "261회 제2차 본회의 회의록 일부 - 결과의 대부분이 원안 가결",
@@ -66,6 +86,46 @@
   }
  },
  "sizes": {
+  "https://jalhana.com/blog/images/after-please-wait/after-please-wait-section-02-illustration-11-06ff7fccc621.webp": [
+   807,
+   561
+  ],
+  "https://jalhana.com/blog/images/after-please-wait/after-please-wait-section-02-illustration-19-50977175cf6b.webp": [
+   878,
+   235
+  ],
+  "https://jalhana.com/blog/images/after-please-wait/after-please-wait-section-02-illustration-27-a322439d4f61.webp": [
+   862,
+   349
+  ],
+  "https://jalhana.com/blog/images/after-please-wait/after-please-wait-section-03-illustration-39-2fef8cfbbe9f.webp": [
+   809,
+   675
+  ],
+  "https://jalhana.com/blog/images/after-please-wait/after-please-wait-section-03-illustration-47-54bcee582e2f.webp": [
+   862,
+   330
+  ],
+  "https://jalhana.com/blog/images/after-please-wait/after-please-wait-section-03-illustration-53-c6309843c9d1.webp": [
+   902,
+   480
+  ],
+  "https://jalhana.com/blog/images/after-please-wait/after-please-wait-section-03-illustration-63-59c93be939fb.webp": [
+   904,
+   595
+  ],
+  "https://jalhana.com/blog/images/after-please-wait/after-please-wait-section-03-illustration-75-21ecaf59fab8.webp": [
+   840,
+   596
+  ],
+  "https://jalhana.com/blog/images/after-please-wait/after-please-wait-section-03-illustration-81-f89b9427cd0f.webp": [
+   1014,
+   503
+  ],
+  "https://jalhana.com/blog/images/after-please-wait/after-please-wait-section-04-illustration-89-c04c0883c27b.webp": [
+   844,
+   492
+  ],
   "https://jalhana.com/blog/images/city-vs-provincial-council/city-vs-provincial-council-section-01-illustration-06-53283e53badf.webp": [
    714,
    645
@@ -234,6 +294,34 @@
    1001,
    607
   ],
+  "https://jalhana.com/blog/images/one-issue-to-the-end/one-issue-to-the-end-section-01-illustration-04-dd155b91f457.webp": [
+   832,
+   288
+  ],
+  "https://jalhana.com/blog/images/one-issue-to-the-end/one-issue-to-the-end-section-01-illustration-09-f74e932a904e.webp": [
+   820,
+   527
+  ],
+  "https://jalhana.com/blog/images/one-issue-to-the-end/one-issue-to-the-end-section-02-illustration-27-bed657931fcb.webp": [
+   836,
+   334
+  ],
+  "https://jalhana.com/blog/images/one-issue-to-the-end/one-issue-to-the-end-section-02-illustration-32-74a4623b07c8.webp": [
+   859,
+   247
+  ],
+  "https://jalhana.com/blog/images/one-issue-to-the-end/one-issue-to-the-end-section-02-illustration-41-57f6e79fdfb0.webp": [
+   862,
+   333
+  ],
+  "https://jalhana.com/blog/images/one-issue-to-the-end/one-issue-to-the-end-section-03-illustration-45-f76583980e5d.webp": [
+   778,
+   414
+  ],
+  "https://jalhana.com/blog/images/one-issue-to-the-end/one-issue-to-the-end-section-04-illustration-55-8d14d7c37739.webp": [
+   832,
+   429
+  ],
   "https://jalhana.com/blog/images/philosophy-to-scorecard/philosophy-to-scorecard-section-02-illustration-08-6623af4db85b.webp": [
    896,
    558
@@ -282,6 +370,62 @@
    1130,
    454
   ],
+  "https://jalhana.com/blog/images/sixteen-shapes-after-the-answer/sixteen-shapes-after-the-answer-section-02-illustration-09-8fa36be16931.webp": [
+   936,
+   466
+  ],
+  "https://jalhana.com/blog/images/sixteen-shapes-after-the-answer/sixteen-shapes-after-the-answer-section-02-illustration-33-67aef87e3a4e.webp": [
+   999,
+   489
+  ],
+  "https://jalhana.com/blog/images/sixteen-shapes-after-the-answer/sixteen-shapes-after-the-answer-section-04-illustration-50-bc06810caa2b.webp": [
+   1339,
+   751
+  ],
+  "https://jalhana.com/blog/images/sixteen-shapes-after-the-answer/sixteen-shapes-after-the-answer-section-05-illustration-57-9f4993daf83a.webp": [
+   1359,
+   756
+  ],
+  "https://jalhana.com/blog/images/sixteen-shapes-after-the-answer/sixteen-shapes-after-the-answer-section-06-illustration-63-2e6ea9a4fbdf.webp": [
+   1362,
+   752
+  ],
+  "https://jalhana.com/blog/images/sixteen-shapes-after-the-answer/sixteen-shapes-after-the-answer-section-07-illustration-67-bfb960b881a5.webp": [
+   1346,
+   753
+  ],
+  "https://jalhana.com/blog/images/sixteen-shapes-after-the-answer/sixteen-shapes-after-the-answer-section-08-illustration-78-962aa5b08c96.webp": [
+   1032,
+   593
+  ],
+  "https://jalhana.com/blog/images/to-the-next-meeting/to-the-next-meeting-section-01-illustration-04-96b48c78be52.webp": [
+   1015,
+   416
+  ],
+  "https://jalhana.com/blog/images/to-the-next-meeting/to-the-next-meeting-section-02-illustration-22-a232f08b364d.webp": [
+   902,
+   392
+  ],
+  "https://jalhana.com/blog/images/to-the-next-meeting/to-the-next-meeting-section-02-illustration-33-0ee5f26b2824.webp": [
+   856,
+   313
+  ],
+  "https://jalhana.com/blog/images/to-the-next-meeting/to-the-next-meeting-section-02-illustration-40-34413d2991f8.webp": [
+   881,
+   389
+  ],
+  "https://jalhana.com/blog/images/to-the-next-meeting/to-the-next-meeting-section-03-illustration-53-b7716ed9db08.webp": [
+   817,
+   359
+  ],
+  "https://jalhana.com/blog/images/to-the-next-meeting/to-the-next-meeting-section-03-illustration-58-e630ddc992c7.webp": [
+   837,
+   345
+  ],
+  "https://jalhana.com/blog/images/to-the-next-meeting/to-the-next-meeting-section-04-illustration-72-2d97493b6b19.webp": [
+   821,
+   526
+  ],
   "https://jalhana.com/blog/images/trust-ai-summary/trust-ai-summary-section-01-illustration-05-b9bfca4a52bf.webp": [
    1236,
    845
@@ -313,6 +457,42 @@
   "https://jalhana.com/blog/images/vanished-committee/vanished-committee-section-03-illustration-28-424c80c77dec.webp": [
    1050,
    341
+  ],
+  "https://jalhana.com/blog/images/verification-has-revisions/verification-has-revisions-section-01-illustration-04-ff40dbc58f50.webp": [
+   1023,
+   604
+  ],
+  "https://jalhana.com/blog/images/verification-has-revisions/verification-has-revisions-section-02-illustration-11-4143c4e4cfa1.webp": [
+   1070,
+   487
+  ],
+  "https://jalhana.com/blog/images/verification-has-revisions/verification-has-revisions-section-02-illustration-16-10e9c0c4ca13.webp": [
+   1073,
+   503
+  ],
+  "https://jalhana.com/blog/images/verification-has-revisions/verification-has-revisions-section-02-illustration-23-8f13c7a5ccc5.webp": [
+   860,
+   378
+  ],
+  "https://jalhana.com/blog/images/verification-has-revisions/verification-has-revisions-section-03-illustration-40-4db4eee5158b.webp": [
+   1053,
+   712
+  ],
+  "https://jalhana.com/blog/images/verification-has-revisions/verification-has-revisions-section-03-illustration-46-16af2938cf1d.webp": [
+   1042,
+   425
+  ],
+  "https://jalhana.com/blog/images/verification-has-revisions/verification-has-revisions-section-04-illustration-55-cf1cb9a3541f.webp": [
+   871,
+   379
+  ],
+  "https://jalhana.com/blog/images/verification-has-revisions/verification-has-revisions-section-04-illustration-58-d001981b6e0f.webp": [
+   997,
+   487
+  ],
+  "https://jalhana.com/blog/images/verification-has-revisions/verification-has-revisions-section-04-illustration-59-2387f229d822.webp": [
+   994,
+   830
   ],
   "https://jalhana.com/blog/images/where-real-politics/where-real-politics-section-01-illustration-02-d214caa26a0a.webp": [
    1111,
